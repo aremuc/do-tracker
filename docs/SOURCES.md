@@ -24,7 +24,7 @@
 
 - Automated: configured Indeed/LinkedIn searches through JobSpy, plus the employer portals listed in `config.json` when retrieval succeeds.
 - Query counts and pagination are capped. A six-week lookback does not guarantee every posting from those weeks is returned.
-- LinkedIn can ignore the remote-only parameter. Location and Ontario eligibility need individual review.
+- Search boards can return nearby cities. A separate Toronto-only location filter removes them; generic remote and GTA locations are excluded.
 - Benefits, workplace and schedule extraction uses conservative text patterns. Boilerplate, negation, eligibility conditions and missing fields can cause ambiguity; all advertised terms must be confirmed.
 - No confirmed transit times or applicant-specific eligibility are inferred. Salary and posting dates are source-reported.
 - No dedicated sponsorship database is used. Employer-support text is a signal requiring confirmation; no candidate immigration details are stored.

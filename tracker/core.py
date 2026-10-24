@@ -70,6 +70,14 @@ def french_signal(title, text):
     return explicit_french or bool(re.search(r"\b(?:bilingual|french|français|francais)\b", title + " " + text, re.I))
 
 
+def toronto_location(location):
+    """Require an explicit Toronto city/borough; reject GTA and mixed-city labels."""
+    loc = clean(location).lower()
+    if re.search(r"\b(?:greater toronto|gta|mississauga|brampton|markham|vaughan|richmond hill|pickering|ajax|oakville|burlington|hamilton|newmarket|aurora|whitby|oshawa|caledon|milton|ottawa|montreal|vancouver|united states|usa|united kingdom)\b", loc):
+        return False
+    return bool(re.search(r"\b(?:toronto|north york|etobicoke|scarborough|east york|york)\b", loc)) and not bool(re.search(r"\b(?:new york|york region)\b", loc))
+
+
 def assess(raw, config):
     title = clean(raw.get("title"))
     cat = category(title, config)
@@ -85,12 +93,14 @@ def assess(raw, config):
     remote = raw.get("is_remote") is True or bool(re.search(r"\bremote\b", title, re.I))
     if re.search(r"\b(?:united states|usa|united kingdom)\b", loc, re.I):
         return None
+    if config.get("toronto_only") and not toronto_location(loc):
+        return None
     if not city and not (remote and re.search(r"\b(?:canada|ontario)\b", loc, re.I)):
         return None
     if re.search(r"internal applicants only|current employees only", lower):
         return None
     flags = ["Confirm experience, software skills and language requirements before applying"]
-    if city != "toronto" and city:
+    if city != "toronto" and city and not config.get("toronto_only"):
         flags.append("Commute review: transit time to this location has not been checked")
     if remote:
         flags.append("Confirm Ontario eligibility, office visits and remote-work restrictions")
@@ -253,11 +263,13 @@ def apply_scope(jobs, config, now):
             job["bilingual_signal"] = False
             job["preference_score"] = max(0, job.get("preference_score", 0) - 1)
             job["flags"] = [f for f in job.get("flags", []) if not f.startswith("French/bilingual signal")]
-        if category(job["title"], config) is None:
+        outside_location = config.get("toronto_only") and not toronto_location(job.get("location", ""))
+        job["flags"] = [f for f in job.get("flags", []) if not (config.get("toronto_only") and f.startswith("Commute review:"))]
+        if category(job["title"], config) is None or outside_location:
             if job["status"] != "Excluded":
                 job["status_before_exclusion"] = job["status"]
             job["status"] = "Excluded"
-            job["exclusion_reason"] = "Outside configured job families or excluded role"
+            job["exclusion_reason"] = "Outside Toronto-only location scope" if outside_location else "Outside configured job families or excluded role"
             continue
         if job["status"] == "Excluded":
             job["status"] = job.pop("status_before_exclusion", "Unverified")

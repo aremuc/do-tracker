@@ -19,6 +19,17 @@ def raw(**changes):
 
 
 class PreferenceTests(unittest.TestCase):
+    def test_toronto_only_new_and_stored(self):
+        for location in ['Markham, ON', 'Mississauga, ON', 'Brampton, ON', 'Greater Toronto Area', 'Ontario, Canada', 'Toronto / Markham, ON', 'New York, USA', 'York Region, ON']:
+            with self.subTest(location=location):
+                self.assertIsNone(assess(raw(location=location, is_remote=True), CONFIG))
+                jobs=merge([], [raw()], CONFIG, NOW)
+                jobs[0]['location']=location
+                self.assertEqual(apply_scope(jobs, CONFIG, NOW)[0]['status'], 'Excluded')
+        for location in ['Toronto, ON', 'Downtown Toronto, ON', 'North York, ON', 'Scarborough, ON', 'Etobicoke, ON']:
+            self.assertIsNotNone(assess(raw(location=location), CONFIG))
+
+
     def test_other_language_title_not_mislabelled_as_french(self):
         record=raw(title='English & Cantonese/Mandarin Customer Service Representative')
         result=assess(record,CONFIG)
@@ -82,13 +93,12 @@ class PreferenceTests(unittest.TestCase):
 
     def test_remote_review_and_foreign_or_distant_locations_excluded(self):
         r=assess(raw(location='Ontario, Canada',is_remote=True,description='Full-time remote role. Extended health benefits.'),CONFIG)
-        self.assertEqual(r['tier'],'Review')
-        self.assertEqual(r['workplace'],'Remote advertised')
+        self.assertIsNone(r)
         self.assertIsNone(assess(raw(location='United States',is_remote=True),CONFIG))
         self.assertIsNone(assess(raw(location='Ottawa, Ontario, Canada',is_remote=False),CONFIG))
 
     def test_nearby_city_requires_commute_review(self):
-        self.assertTrue(any('Commute review' in f for f in assess(raw(location='Mississauga, ON, Canada'),CONFIG)['flags']))
+        self.assertIsNone(assess(raw(location='Mississauga, ON, Canada'),CONFIG))
 
     def test_irrelevant_titles_and_internal_roles_excluded(self):
         for title in ['Software Engineer','Registered Nurse','Retail Sales Associate','Administrative Intern','Director of Operations']:

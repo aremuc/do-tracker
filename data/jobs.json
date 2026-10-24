@@ -87,7 +87,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -332,7 +331,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -362,10 +360,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -373,7 +373,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -405,10 +404,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -416,7 +417,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -447,10 +447,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -498,7 +500,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -529,9 +530,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Excluded",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4471384817 (Caused by ResponseError('too m",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -621,7 +624,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -652,9 +654,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Excluded",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -662,7 +666,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -694,9 +697,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Excluded",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -704,7 +709,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period"
@@ -735,9 +739,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Excluded",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -788,7 +794,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -819,12 +824,14 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "deadline": null,
     "employer_posted_date": "2024-08-14",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -954,7 +961,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
@@ -985,10 +991,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -996,7 +1004,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
@@ -1027,10 +1034,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1078,7 +1087,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -1110,10 +1118,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1121,7 +1131,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -1151,10 +1160,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1202,7 +1213,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -1232,10 +1242,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1243,7 +1255,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -1285,7 +1296,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -1316,10 +1326,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1327,7 +1339,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -1357,10 +1368,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1450,7 +1463,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -1480,10 +1492,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -1695,7 +1709,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
@@ -1726,10 +1739,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -1857,7 +1872,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -2194,7 +2208,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period"
     ],
@@ -2224,12 +2237,14 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-14",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -2237,7 +2252,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -2279,7 +2293,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -2358,7 +2371,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -2389,12 +2401,14 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "deadline": null,
     "employer_posted_date": "2026-09-17",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -2566,7 +2580,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -2607,7 +2620,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -2719,10 +2731,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -3014,7 +3028,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -3044,10 +3057,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -3095,7 +3110,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Check driving requirements",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -3126,7 +3140,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -3171,7 +3187,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -3205,8 +3220,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Application URL changed; new destination needs checking"
+    "status": "Excluded",
+    "verification_note": "Application URL changed; new destination needs checking",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -3336,7 +3353,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -3366,7 +3382,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -3374,7 +3392,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -3404,7 +3421,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -3606,7 +3625,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -3636,7 +3654,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -3644,7 +3664,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -3724,7 +3743,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -3755,7 +3773,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -3838,7 +3858,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -3870,7 +3889,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -3878,7 +3899,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation"
     ],
@@ -3907,7 +3927,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -4259,7 +4281,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -4289,7 +4310,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -4410,7 +4433,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
@@ -4441,7 +4463,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -4525,7 +4549,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
@@ -4564,7 +4587,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Annual range extracted from text; confirm currency and base versus total compensation",
@@ -4606,7 +4628,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation",
       "Annual range extracted from text; confirm currency and base versus total compensation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -4636,7 +4657,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -4760,7 +4783,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation"
     ],
@@ -4791,8 +4813,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Application URL changed; new destination needs checking"
+    "status": "Excluded",
+    "verification_note": "Application URL changed; new destination needs checking",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -4924,7 +4948,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Confirm Ontario eligibility, office visits and remote-work restrictions",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
@@ -4957,7 +4980,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5005,7 +5030,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
@@ -5036,7 +5060,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5086,7 +5112,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period"
@@ -5117,7 +5142,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5167,7 +5194,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
@@ -5315,9 +5341,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Excluded",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5325,7 +5353,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
@@ -5355,7 +5382,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5404,7 +5433,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -5435,7 +5463,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -5443,7 +5473,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -5476,8 +5505,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Application URL changed; new destination needs checking"
+    "status": "Excluded",
+    "verification_note": "Application URL changed; new destination needs checking",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -5561,7 +5592,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -5591,7 +5621,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -5599,7 +5631,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -5630,7 +5661,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -5638,7 +5671,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -5668,7 +5700,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5676,7 +5710,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
@@ -5713,7 +5746,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period"
     ],
@@ -5742,7 +5774,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5750,7 +5784,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -5780,7 +5813,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -5826,7 +5861,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -5858,7 +5892,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -5980,7 +6016,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -6019,7 +6054,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -6049,7 +6083,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6094,7 +6130,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -6124,7 +6159,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6319,7 +6356,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -6349,7 +6385,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6434,7 +6472,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -6473,7 +6510,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -6504,7 +6540,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6549,7 +6587,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -6579,7 +6616,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -6708,7 +6747,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
@@ -6739,7 +6777,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -6778,7 +6818,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -6786,7 +6828,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -6818,7 +6859,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -6946,7 +6989,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -6979,8 +7021,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Application URL changed; new destination needs checking"
+    "status": "Excluded",
+    "verification_note": "Application URL changed; new destination needs checking",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7142,7 +7186,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -7172,7 +7215,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7180,7 +7225,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -7212,8 +7256,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Application URL changed; new destination needs checking"
+    "status": "Excluded",
+    "verification_note": "Application URL changed; new destination needs checking",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7221,7 +7267,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -7252,7 +7297,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7260,7 +7307,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation"
     ],
     "salary": "CAD 46,000.00–65,000.00 / yearly",
@@ -7290,8 +7336,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
-    "verification_note": "Application URL changed; new destination needs checking"
+    "status": "Excluded",
+    "verification_note": "Application URL changed; new destination needs checking",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7556,7 +7604,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
@@ -7585,7 +7632,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7593,7 +7642,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -7631,7 +7679,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -7661,10 +7708,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:09:31-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:09:31-04:00"
+    "last_checked": "2026-10-24T16:09:31-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7703,7 +7752,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7711,7 +7762,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -7741,7 +7791,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -7855,7 +7907,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -7895,7 +7949,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -7973,7 +8029,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -8012,7 +8070,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -8174,7 +8234,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -8204,7 +8263,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -8289,7 +8350,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -8320,7 +8380,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -8365,7 +8427,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -8397,7 +8458,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -8443,7 +8506,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Check driving requirements",
       "Review experience/supervisory requirements carefully",
@@ -8476,7 +8538,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -8523,7 +8587,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -8554,7 +8617,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -8598,7 +8663,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -8628,7 +8692,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -8636,7 +8702,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period"
     ],
@@ -8665,7 +8730,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -8746,7 +8813,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -8779,7 +8845,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Scheduling and workforce",
@@ -8861,7 +8929,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
@@ -8890,7 +8957,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -8935,7 +9004,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -8966,7 +9034,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -9013,7 +9083,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -9044,7 +9113,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -9052,7 +9123,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation"
     ],
     "salary": "CAD 45,000.00–50,000.00 / yearly",
@@ -9081,7 +9151,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -9156,7 +9228,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -9164,7 +9238,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -9202,7 +9275,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -9232,7 +9304,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -9426,7 +9500,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -9543,7 +9616,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -9575,7 +9647,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -9583,7 +9657,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -9615,7 +9688,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -9623,7 +9698,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Confirm Ontario eligibility, office visits and remote-work restrictions",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
@@ -9656,7 +9730,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -9664,7 +9740,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
@@ -9696,10 +9771,12 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Excluded",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-24T16:12:42-04:00"
+    "last_checked": "2026-10-24T16:12:42-04:00",
+    "status_before_exclusion": "Posting verified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",
@@ -9707,7 +9784,6 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
@@ -9739,7 +9815,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -9784,7 +9862,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
@@ -9815,7 +9892,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -9862,7 +9941,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -9893,7 +9971,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Client services",
@@ -9901,7 +9981,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -9975,7 +10054,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -10013,7 +10091,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -10088,7 +10165,6 @@
     "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -10119,7 +10195,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Banking and insurance fallback",
@@ -10275,7 +10353,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -10306,7 +10383,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -10314,7 +10393,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -10352,7 +10430,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -10383,7 +10460,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Administration",
@@ -10504,7 +10583,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Commute review: transit time to this location has not been checked",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -10535,7 +10613,9 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified"
+    "status": "Excluded",
+    "status_before_exclusion": "Unverified",
+    "exclusion_reason": "Outside Toronto-only location scope"
   },
   {
     "category": "Operations and training",

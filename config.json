@@ -8,20 +8,15 @@
   "verification_budget": 45,
   "verification_max_age_days": 7,
   "preferred_cities": [
-    "toronto"
-  ],
-  "commute_review_cities": [
+    "toronto",
+    "downtown toronto",
     "north york",
     "etobicoke",
     "scarborough",
-    "mississauga",
-    "vaughan",
-    "markham",
-    "richmond hill",
-    "pickering",
-    "ajax",
-    "greater toronto area"
+    "east york",
+    "york"
   ],
+  "commute_review_cities": [],
   "exclude_title_patterns": [
     "\\bintern(?:ship)?\\b",
     "\\bco[- ]?op\\b",
@@ -138,11 +133,6 @@
     {
       "term": "corporate receptionist",
       "location": "Toronto, ON"
-    },
-    {
-      "term": "bilingual customer service",
-      "location": "Ontario, Canada",
-      "remote": true
     }
   ],
   "smartrecruiters": [],
@@ -160,5 +150,6 @@
   ],
   "verification_time_budget_seconds": 180,
   "salary_target": 45000,
-  "salary_review_floor": 40000
+  "salary_review_floor": 40000,
+  "toronto_only": true
 }

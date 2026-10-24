@@ -51,7 +51,7 @@ Latest discovery evidence: **{observed}**. Rendering a page does not fetch new j
 
 - Permanent full-time, advertised health/dental benefits, and weekday schedules are preferred.
 - Hybrid comes first, then office-based work; remote roles remain eligible for review.
-- Toronto is the main area. Nearby locations require a transit-commute review; downtown accessibility is never inferred from “Toronto”.
+- Toronto city only, preferably downtown. Other GTA cities and generic Ontario/Canada remote listings are excluded. Toronto boroughs remain eligible; a Toronto label does not establish a downtown office.
 - Prefer an annual base salary of $45,000–$50,000 or more. $40,000–$45,000 can be reviewed against benefits and hours. Missing pay is retained; hourly pay is not annualized without confirmed hours.
 - Banking, insurance, temporary work and lower-paying roles are fallbacks. Weekend, shift and commission signals are flagged.
 
@@ -96,7 +96,7 @@ The public repository contains listing data and general filters only. Keep résu
 
 - Automated: configured Indeed/LinkedIn searches through JobSpy, plus the employer portals listed in `config.json` when retrieval succeeds.
 - Query counts and pagination are capped. A six-week lookback does not guarantee every posting from those weeks is returned.
-- LinkedIn can ignore the remote-only parameter. Location and Ontario eligibility need individual review.
+- Search boards can return nearby cities. A separate Toronto-only location filter removes them; generic remote and GTA locations are excluded.
 - Benefits, workplace and schedule extraction uses conservative text patterns. Boilerplate, negation, eligibility conditions and missing fields can cause ambiguity; all advertised terms must be confirmed.
 - No confirmed transit times or applicant-specific eligibility are inferred. Salary and posting dates are source-reported.
 - No dedicated sponsorship database is used. Employer-support text is a signal requiring confirmation; no candidate immigration details are stored.
