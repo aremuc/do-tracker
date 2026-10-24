@@ -87,6 +87,10 @@ class PreferenceTests(unittest.TestCase):
             self.assertIsNone(assess(raw(title=title),CONFIG))
         self.assertIsNone(assess(raw(description='Internal applicants only'),CONFIG))
 
+    def test_office_customer_service_not_excluded_by_industry(self):
+        self.assertIsNotNone(assess(raw(title='Bilingual Customer Service Representative - Pharmaceutical Services'),CONFIG))
+        self.assertIsNone(assess(raw(title='Pharmacist Customer Service'),CONFIG))
+
     def test_assistant_to_director_is_not_a_director(self):
         self.assertIsNotNone(assess(raw(title='Administrative Assistant to the Director'),CONFIG))
 
