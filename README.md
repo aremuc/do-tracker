@@ -4,7 +4,7 @@ Office, scheduling, operations, training and client-service opportunities in Tor
 
 **[Open the job website](https://aremuc.github.io/do-tracker/)** · [Plain job list](docs/ALL_JOBS.md) · [Fallbacks](docs/FALLBACK.md) · [Source health](docs/SOURCES.md) · [Maintenance](docs/MAINTENANCE.md)
 
-**271 active leads · 68 posting pages checked · views generated 2026-10-24T16:53:32-04:00**
+**271 active leads · 68 posting pages checked · views generated 2026-10-24T16:55:53-04:00**
 
 Latest discovery evidence: **2026-10-24T16:12:42-04:00**. Rendering a page does not fetch new jobs.
 
