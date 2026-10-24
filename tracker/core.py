@@ -61,6 +61,15 @@ def category(title, config):
     return None
 
 
+def french_signal(title, text):
+    """Do not mistake explicitly other-language roles for French opportunities."""
+    explicit_french = bool(re.search(r"french|français|francais|\bfr[/ -]en\b|\ben[/ -]fr\b", title, re.I))
+    other_language = bool(re.search(r"mandarin|cantonese|spanish|arabic|portuguese|korean|japanese|german|italian", title, re.I))
+    if other_language and not explicit_french:
+        return False
+    return explicit_french or bool(re.search(r"\b(?:bilingual|french|français|francais)\b", title + " " + text, re.I))
+
+
 def assess(raw, config):
     title = clean(raw.get("title"))
     cat = category(title, config)
@@ -85,7 +94,7 @@ def assess(raw, config):
         flags.append("Commute review: transit time to this location has not been checked")
     if remote:
         flags.append("Confirm Ontario eligibility, office visits and remote-work restrictions")
-    bilingual = bool(re.search(r"\b(?:bilingual|french|français|francais)\b", lower))
+    bilingual = french_signal(title, text)
     if bilingual:
         flags.append("French/bilingual signal: confirm spoken and written proficiency requirements")
     if re.search(r"licen[cs]e|certification|mutual funds|csc|ific", lower):
@@ -240,6 +249,10 @@ def public_jobs(jobs):
 def apply_scope(jobs, config, now):
     """Reapply title exclusions to stored listings without deleting their history."""
     for job in jobs:
+        if job.get("bilingual_signal") and re.search(r"mandarin|cantonese|spanish|arabic|portuguese|korean|japanese|german|italian", job["title"], re.I) and not french_signal(job["title"], ""):
+            job["bilingual_signal"] = False
+            job["preference_score"] = max(0, job.get("preference_score", 0) - 1)
+            job["flags"] = [f for f in job.get("flags", []) if not f.startswith("French/bilingual signal")]
         if category(job["title"], config) is None:
             if job["status"] != "Excluded":
                 job["status_before_exclusion"] = job["status"]

@@ -19,6 +19,14 @@ def raw(**changes):
 
 
 class PreferenceTests(unittest.TestCase):
+    def test_other_language_title_not_mislabelled_as_french(self):
+        record=raw(title='English & Cantonese/Mandarin Customer Service Representative')
+        result=assess(record,CONFIG)
+        self.assertFalse(result['bilingual_signal'])
+        jobs=merge([],[raw()],CONFIG,NOW)
+        jobs[0]['title']=record['title'];jobs[0]['bilingual_signal']=True
+        self.assertFalse(apply_scope(jobs,CONFIG,NOW)[0]['bilingual_signal'])
+
     def test_advertised_preferences_make_priority_without_claiming_eligibility(self):
         result=assess(raw(),CONFIG)
         self.assertEqual(result['tier'],'Priority')

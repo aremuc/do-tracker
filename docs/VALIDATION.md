@@ -30,3 +30,7 @@ The final scope regression adds an industry-neutral office/customer-service case
 
 - Website validation: 32 Python tests and expanded viewer functional tests passed. Real-browser checks confirmed combined filters, saving a job, saved-job persistence after reload, and removing a saved job. A 390px browser iframe check showed no horizontal overflow.
 - The local Pages package contains only `index.html` and `.nojekyll`. Live GitHub Pages publication is pending the one-time repository Source setting; a prepared artifact is not a deployed site.
+
+- A final 33-test suite adds a regression for explicitly non-French language roles.
+- GitHub run [40131420715](https://github.com/aremuc/do-tracker/actions/runs/40131420715) passed the refresh, website validation, packaging and upload. Deployment was correctly skipped because GitHub Pages is not enabled yet.
+- [Website preview](website-preview.jpg) shows the tested interface; it is not proof of live Pages publication.

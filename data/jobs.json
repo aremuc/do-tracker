@@ -211,7 +211,6 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Health/dental benefits require confirmation",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -222,8 +221,8 @@
     "workplace": "Not stated / not extracted",
     "schedule": "Weekend/shift signal — review",
     "employer_support": "Not stated / not extracted",
-    "bilingual_signal": true,
-    "preference_score": 2,
+    "bilingual_signal": false,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "2e54b3e181b25fd5",
@@ -3646,7 +3645,6 @@
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "Commute review: transit time to this location has not been checked",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
@@ -3657,8 +3655,8 @@
     "workplace": "In-person advertised",
     "schedule": "Weekdays advertised",
     "employer_support": "Not stated / not extracted",
-    "bilingual_signal": true,
-    "preference_score": 6,
+    "bilingual_signal": false,
+    "preference_score": 5,
     "annual_base_min": null,
     "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
     "id": "03017cddbce54d4c",
@@ -6476,7 +6474,6 @@
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "Commute review: transit time to this location has not been checked",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Check mandatory versus optional weekends, evenings, shifts and overtime",
@@ -6488,8 +6485,8 @@
     "workplace": "Hybrid advertised",
     "schedule": "Weekend/shift signal — review",
     "employer_support": "Not stated / not extracted",
-    "bilingual_signal": true,
-    "preference_score": 8,
+    "bilingual_signal": false,
+    "preference_score": 7,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "9b0443e707215dd9",
@@ -7907,7 +7904,6 @@
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "Confirm Ontario eligibility, office visits and remote-work restrictions",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
       "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation"
     ],
@@ -7917,8 +7913,8 @@
     "workplace": "Remote advertised",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
-    "bilingual_signal": true,
-    "preference_score": 2,
+    "bilingual_signal": false,
+    "preference_score": 1,
     "annual_base_min": 34500.0,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "7296bb9d61a9b9dc",
