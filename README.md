@@ -2,9 +2,9 @@
 
 Office, scheduling, operations, training and client-service opportunities in Toronto, including French/English roles.
 
-**[Browse every listing, newest first](docs/ALL_JOBS.md)** · [Fallbacks](docs/FALLBACK.md) · [Source health](docs/SOURCES.md) · [Maintenance](docs/MAINTENANCE.md)
+**[Open the job website](https://aremuc.github.io/do-tracker/)** · [Plain job list](docs/ALL_JOBS.md) · [Fallbacks](docs/FALLBACK.md) · [Source health](docs/SOURCES.md) · [Maintenance](docs/MAINTENANCE.md)
 
-**271 active leads · 68 posting pages checked · views generated 2026-10-24T16:19:22-04:00**
+**271 active leads · 68 posting pages checked · views generated 2026-10-24T16:42:34-04:00**
 
 Latest discovery evidence: **2026-10-24T16:12:42-04:00**. Rendering a page does not fetch new jobs.
 
@@ -35,7 +35,7 @@ Latest discovery evidence: **2026-10-24T16:12:42-04:00**. Rendering a page does 
 
 ## Browse and apply
 
-Download `index.html` and open it in a browser for search, sorting and filters for benefits, workplace, French/bilingual signals, employment tier and posting verification. GitHub shows the HTML source instead of running the viewer. No account is needed to read the Markdown listings.
+**[Open the website](https://aremuc.github.io/do-tracker/)** for search, filters, saved jobs and direct application links. No account or downloads are needed once GitHub Pages is enabled. Saved jobs stay in the current browser/device and are not uploaded. The Markdown listings remain available as a fallback.
 
 The viewer shows schedule and employer-support signals, source excerpts, and last-check dates. “Advertised” means text was detected, **not independently confirmed**. Confirm benefit coverage, employee contributions, eligibility, waiting periods and schedule with the employer.
 

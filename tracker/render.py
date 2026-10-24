@@ -41,7 +41,7 @@ def render(root, jobs, health, now):
 
 Office, scheduling, operations, training and client-service opportunities in Toronto, including French/English roles.
 
-**[Browse every listing, newest first](docs/ALL_JOBS.md)** · [Fallbacks](docs/FALLBACK.md) · [Source health](docs/SOURCES.md) · [Maintenance](docs/MAINTENANCE.md)
+**[Open the job website](https://aremuc.github.io/do-tracker/)** · [Plain job list](docs/ALL_JOBS.md) · [Fallbacks](docs/FALLBACK.md) · [Source health](docs/SOURCES.md) · [Maintenance](docs/MAINTENANCE.md)
 
 **{len(active)} active leads · {verified} posting pages checked · views generated {now}**
 
@@ -63,7 +63,7 @@ Latest discovery evidence: **{observed}**. Rendering a page does not fetch new j
 
 ## Browse and apply
 
-Download `index.html` and open it in a browser for search, sorting and filters for benefits, workplace, French/bilingual signals, employment tier and posting verification. GitHub shows the HTML source instead of running the viewer. No account is needed to read the Markdown listings.
+**[Open the website](https://aremuc.github.io/do-tracker/)** for search, filters, saved jobs and direct application links. No account or downloads are needed once GitHub Pages is enabled. Saved jobs stay in the current browser/device and are not uploaded. The Markdown listings remain available as a fallback.
 
 The viewer shows schedule and employer-support signals, source excerpts, and last-check dates. “Advertised” means text was detected, **not independently confirmed**. Confirm benefit coverage, employee contributions, eligibility, waiting periods and schedule with the employer.
 
@@ -108,4 +108,4 @@ The public repository contains listing data and general filters only. Keep résu
     (docs/'SOURCES.md').write_text(source, encoding='utf-8')
     payload = json.dumps(active,ensure_ascii=False).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
     template = (root/'tracker/viewer.html').read_text()
-    (root/'index.html').write_text(template.replace('__JOBS__',payload).replace('__UPDATED__',html.escape(now)).replace('__TODAY__',today.isoformat()),encoding='utf-8')
+    (root/'index.html').write_text(template.replace('__JOBS__',payload).replace('__UPDATED__',html.escape(now)).replace('__TODAY__',today.isoformat()).replace('__DISCOVERED__',html.escape(observed)),encoding='utf-8')

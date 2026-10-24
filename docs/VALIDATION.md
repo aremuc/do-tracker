@@ -20,3 +20,13 @@ Benefits and other terms detected in text are advertised signals, not employer-c
 The full [GitHub refresh run 40128738960](https://github.com/aremuc/do-tracker/actions/runs/40128738960) succeeded: Python tests, viewer tests, live collection, posting checks and publishing all passed. It produced 271 active leads with 68 matching posting pages verified. All 15 source entries reported successful retrieval; LinkedIn warned that its remote-only parameter was ignored. These counts are a setup snapshot, not permanent totals.
 
 The final scope regression adds an industry-neutral office/customer-service case while keeping licensed pharmacist roles excluded. The final test suite has 29 Python tests. Ordinary code pushes exercise tests and rendering. The first independent scheduled run is still pending.
+
+## Website upgrade
+
+- Added a GitHub Pages workflow, called directly after a successful refresh so bot-generated commits do not need to trigger a second push event.
+- The publishing artifact contains only validated HTML and `.nojekyll`. It rejects unrendered templates, private fields and unsafe application links.
+- The interface includes simplified responsive cards, search, filters, pagination, device-local saved jobs and a short help section. Saved jobs are not uploaded.
+- Browser preview, functional checks and deployment status are recorded after verification. The live Pages site requires the repository Source setting to be switched to GitHub Actions.
+
+- Website validation: 32 Python tests and expanded viewer functional tests passed. Real-browser checks confirmed combined filters, saving a job, saved-job persistence after reload, and removing a saved job. A 390px browser iframe check showed no horizontal overflow.
+- The local Pages package contains only `index.html` and `.nojekyll`. Live GitHub Pages publication is pending the one-time repository Source setting; a prepared artifact is not a deployed site.

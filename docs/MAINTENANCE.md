@@ -4,7 +4,17 @@
 
 ## Use
 
-Read `docs/ALL_JOBS.md` without a GitHub account. Download `index.html` and open it locally for search and filters. Keep application activity in a separate private document.
+Open **https://aremuc.github.io/do-tracker/** after Pages is enabled. No account, downloads or repository navigation is needed. Search, filter, save jobs in the current browser, and apply on the original posting. Saved jobs are not uploaded or synced; personal application notes belong in a private document.
+
+## Enable GitHub Pages once
+
+1. Open repository **Settings → Pages**.
+2. Under **Build and deployment → Source**, choose **GitHub Actions**.
+3. Open **Actions → Publish website → Run workflow** using `main`.
+
+No personal token or secret is needed. The GitHub connector cannot change the Pages administration setting, so this switch must be made in GitHub. Once enabled, the refresh workflow automatically publishes the exact refreshed commit. Ordinary code changes regenerate and publish the website without a live job search. The dedicated Publish website workflow can also publish existing data on demand.
+
+The build packages only validated `index.html` and `.nojekyll`, not source files or working directories. Before Pages is enabled, packaging still runs and the deployment is explicitly skipped with setup instructions in the run summary.
 
 ## Refresh
 

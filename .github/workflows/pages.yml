@@ -1,0 +1,75 @@
+name: Publish website
+on:
+  workflow_call:
+    inputs:
+      ref:
+        description: Exact refreshed commit to publish
+        required: true
+        type: string
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Branch or commit to publish
+        required: false
+        default: main
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: github-pages-deployment
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pages: read
+    outputs:
+      enabled: ${{ steps.pages.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref || 'main' }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate and package website only
+        run: python scripts/package_pages.py
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Check one-time Pages setting
+        id: pages
+        uses: actions/github-script@v7
+        with:
+          script: |
+            let enabled = false;
+            try {
+              const { data } = await github.rest.repos.getPages(context.repo);
+              enabled = data.build_type === 'workflow';
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
+            core.setOutput('enabled', String(enabled));
+            if (!enabled) {
+              core.notice('Website files are ready. Enable Settings > Pages > Source: GitHub Actions, then run Publish website.');
+              await core.summary.addHeading('Website ready: one-time Pages setting needed')
+                .addRaw('Open repository Settings → Pages. Choose **GitHub Actions** under Source. Then run this **Publish website** workflow again. No token or secret is needed.').write();
+            }
+  deploy:
+    if: needs.build.outputs.enabled == 'true'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
