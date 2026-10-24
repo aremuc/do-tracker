@@ -34,3 +34,7 @@ The final scope regression adds an industry-neutral office/customer-service case
 - A final 33-test suite adds a regression for explicitly non-French language roles.
 - GitHub run [40131420715](https://github.com/aremuc/do-tracker/actions/runs/40131420715) passed the refresh, website validation, packaging and upload. Deployment was correctly skipped because GitHub Pages is not enabled yet.
 - [Website preview](website-preview.jpg) shows the tested interface; it is not proof of live Pages publication.
+
+## Live GitHub Pages verification
+
+GitHub Pages was enabled and [deployment run 40131948631](https://github.com/aremuc/do-tracker/actions/runs/40131948631) successfully published https://aremuc.github.io/do-tracker/. The live HTTPS website was opened in a browser and displayed 271 opportunities with search, filters, saved jobs and application links. Artifact names now include the run ID and attempt so deployment retries do not encounter duplicate artifacts. Daily refreshes call the publishing workflow directly.
