@@ -1,0 +1,164 @@
+{
+  "name": "Toronto Career Opportunities",
+  "timezone": "America/Toronto",
+  "lookback_days": 42,
+  "daily_lookback_days": 7,
+  "results_per_board": 20,
+  "stale_after_days": 14,
+  "verification_budget": 45,
+  "verification_max_age_days": 7,
+  "preferred_cities": [
+    "toronto"
+  ],
+  "commute_review_cities": [
+    "north york",
+    "etobicoke",
+    "scarborough",
+    "mississauga",
+    "vaughan",
+    "markham",
+    "richmond hill",
+    "pickering",
+    "ajax",
+    "greater toronto area"
+  ],
+  "exclude_title_patterns": [
+    "\\bintern(?:ship)?\\b",
+    "\\bco[- ]?op\\b",
+    "\\b(?:director|vice president|chief|engineer|developer|nurse|physician|pharmacist|technologist)\\b",
+    "^(?:senior |sr\\.? )?manager\\b",
+    "\\b(?:financial planner|investment advisor|mortgage specialist|real estate agent)\\b",
+    "\\b(?:cashier|retail sales|sales associate|store manager)\\b"
+  ],
+  "categories": {
+    "Scheduling and workforce": [
+      "schedul",
+      "workforce",
+      "staffing coordinator",
+      "roster",
+      "resource coordinator",
+      "planning assistant"
+    ],
+    "Operations and training": [
+      "operations coordinator",
+      "operations assistant",
+      "operations administrator",
+      "training coordinator",
+      "training administrator",
+      "learning coordinator",
+      "service coordinator",
+      "client coordinator",
+      "client planning",
+      "program coordinator",
+      "program assistant"
+    ],
+    "Administration": [
+      "administrative",
+      "administration",
+      "office coordinator",
+      "office assistant",
+      "office administrator",
+      "receptionist",
+      "executive assistant",
+      "clerical",
+      "data entry"
+    ],
+    "Banking and insurance fallback": [
+      "banking",
+      "bank operations",
+      "bank teller",
+      "payment",
+      "insurance",
+      "claims assistant",
+      "claims representative",
+      "client advisor",
+      "customer experience associate",
+      "customer experience associat"
+    ],
+    "Client services": [
+      "customer service",
+      "client service",
+      "client support",
+      "customer support",
+      "customer experience",
+      "customer relations",
+      "member service",
+      "client care",
+      "customer care",
+      "contact centre",
+      "contact center",
+      "service representative"
+    ]
+  },
+  "queries": [
+    {
+      "term": "bilingual client services",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "staff scheduler",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "workforce coordinator",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "operations coordinator",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "training coordinator",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "bilingual administrative assistant",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "office coordinator",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "bilingual customer service",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "client service coordinator",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "banking customer service",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "bilingual insurance customer service",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "corporate receptionist",
+      "location": "Toronto, ON"
+    },
+    {
+      "term": "bilingual customer service",
+      "location": "Ontario, Canada",
+      "remote": true
+    }
+  ],
+  "smartrecruiters": [],
+  "html_boards": [
+    {
+      "name": "University of Toronto",
+      "url": "https://jobs.utoronto.ca/go/Staff-Opportunities/2607517/",
+      "location": "Toronto, ON, Canada"
+    },
+    {
+      "name": "City of Toronto",
+      "url": "https://jobs.toronto.ca/jobsatcity/search/?q=",
+      "location": "Toronto, ON, Canada"
+    }
+  ],
+  "verification_time_budget_seconds": 180,
+  "salary_target": 45000,
+  "salary_review_floor": 40000
+}
