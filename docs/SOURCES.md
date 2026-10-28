@@ -1,11 +1,11 @@
 # Source health
 
-[Home](../README.md) · Latest collection attempt: 2026-10-27T14:46:30-04:00
+[Home](../README.md) · Latest collection attempt: 2026-10-28T14:56:23-04:00
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
 | JobSpy: bilingual client services / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: staff scheduler / Toronto, ON | ok | 29 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: staff scheduler / Toronto, ON | ok | 27 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: workforce coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: operations coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: training coordinator / Toronto, ON | ok | 23 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
@@ -17,7 +17,7 @@
 | JobSpy: bilingual insurance customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: corporate receptionist / Toronto, ON | ok | 20 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | University of Toronto | ok | 6 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| City of Toronto | ok | 3 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| City of Toronto | ok | 4 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
 
