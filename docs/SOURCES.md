@@ -1,6 +1,6 @@
 # Source health
 
-[Home](../README.md) · Latest collection attempt: 2026-10-29T15:01:44-04:00
+[Home](../README.md) · Latest collection attempt: 2026-10-30T14:41:00-04:00
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
@@ -9,15 +9,15 @@
 | JobSpy: workforce coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: operations coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: training coordinator / Toronto, ON | ok | 25 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: bilingual administrative assistant / Toronto, ON | ok | 28 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: bilingual administrative assistant / Toronto, ON | ok | 27 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: office coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: bilingual customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: client service coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: banking customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: bilingual insurance customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: corporate receptionist / Toronto, ON | degraded | 12 | {&quot;errors&quot;: {&quot;linkedin&quot;: &quot;response status code 429 (blocked: use a proxy)&quot;}, &quot;warnings&quot;: {}} |
+| JobSpy: corporate receptionist / Toronto, ON | ok | 23 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | University of Toronto | ok | 4 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| City of Toronto | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| City of Toronto | ok | 6 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
 
