@@ -1281,7 +1281,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -3875,7 +3875,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -4637,10 +4637,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4479713099"
     ],
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-11-05",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-10-24T16:09:30-04:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -6088,7 +6088,7 @@
     "last_verified": "2026-10-25T13:06:20-04:00",
     "deadline": "2026-10-29",
     "employer_posted_date": "2026-10-22",
-    "verification_note": "Could not confirm a matching live posting and application route",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-11-04T15:28:25-05:00"
   },
   {
@@ -6126,11 +6126,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Closed",
     "last_verified": "2026-10-25T13:06:20-04:00",
     "deadline": "2026-11-04",
     "employer_posted_date": "2026-10-21",
-    "verification_note": "Could not confirm a matching live posting and application route",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-11-04T15:28:25-05:00"
   },
   {
@@ -6332,7 +6332,7 @@
     "last_verified": "2026-10-26T15:25:11-04:00",
     "deadline": "2026-10-30",
     "employer_posted_date": "2026-10-06",
-    "verification_note": "Could not confirm a matching live posting and application route",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-11-04T15:28:25-05:00"
   },
   {
@@ -6374,7 +6374,7 @@
     "last_verified": "2026-10-26T15:25:11-04:00",
     "deadline": "2026-10-30",
     "employer_posted_date": "2026-09-17",
-    "verification_note": "Could not confirm a matching live posting and application route",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-11-04T15:28:25-05:00"
   },
   {
@@ -6416,7 +6416,7 @@
     "last_verified": "2026-10-26T15:25:11-04:00",
     "deadline": "2026-10-30",
     "employer_posted_date": "2026-09-17",
-    "verification_note": "Could not confirm a matching live posting and application route",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-11-04T15:28:25-05:00"
   },
   {
@@ -6458,8 +6458,8 @@
     "last_verified": "2026-10-26T15:25:11-04:00",
     "deadline": "2026-10-30",
     "employer_posted_date": "2026-09-17",
-    "verification_note": "Previously observed employer deadline has passed",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Client services",
@@ -6498,12 +6498,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-10-26T15:25:11-04:00",
     "deadline": null,
     "employer_posted_date": "2026-09-16",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6580,10 +6580,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-10-26T15:25:11-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6622,8 +6622,8 @@
       "linkedin"
     ],
     "status": "Unverified",
-    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4482801381 (Caused by ResponseError('too m",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6660,9 +6660,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6739,10 +6739,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-10-26T15:25:11-04:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6821,9 +6821,9 @@
       "indeed"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Client services",
@@ -6906,11 +6906,11 @@
       "indeed"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-19",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -6935,22 +6935,26 @@
     "id": "f92283f386d2a67e",
     "title": "Bilingual Insurance Account Representative",
     "company": "Annabella Bai - Desjardins Insurance Agent",
-    "location": "Markham, ON, Canada",
+    "location": "Toronto, ON, Canada",
     "url": "https://annabellabai.talentnest.com/en/posting/244384/location/292589",
     "urls": [
       "https://annabellabai.talentnest.com/en/posting/244384/location/292589",
+      "https://ca.indeed.com/viewjob?jk=8ad87a8f9e18c560",
       "https://ca.indeed.com/viewjob?jk=8d72445bcb3885a8"
     ],
-    "posted_date": "2026-10-14",
+    "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-10-24T16:09:30-04:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
-    "status": "Excluded",
-    "status_before_exclusion": "Unverified",
-    "exclusion_reason": "Outside Toronto-only location scope"
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": null,
+    "employer_posted_date": "2026-10-14",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Client services",
@@ -7066,7 +7070,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -7107,7 +7111,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -7153,9 +7157,9 @@
       "indeed"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Administration",
@@ -7238,11 +7242,11 @@
       "indeed"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-09",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Administration",
@@ -7283,7 +7287,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Administration",
@@ -7322,7 +7326,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Administration",
@@ -7361,9 +7365,9 @@
       "indeed"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Administration",
@@ -7561,9 +7565,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-10-26T15:25:11-04:00",
+    "last_verified": "2026-11-05T15:44:08-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-10-26T15:25:11-04:00"
+    "last_checked": "2026-11-05T15:44:08-05:00"
   },
   {
     "category": "Administration",
@@ -8655,7 +8659,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:12:42-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -10829,7 +10833,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:12:42-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -11755,7 +11759,7 @@
     "posted_date": "2026-10-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-26T15:25:11-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -13458,10 +13462,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4484263645"
     ],
-    "posted_date": "2026-10-27",
+    "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T14:56:23-04:00",
-    "last_seen": "2026-10-28T14:56:23-04:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -13823,7 +13827,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T14:56:23-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -14278,11 +14282,11 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Closed",
     "last_verified": "2026-10-29T15:01:44-04:00",
     "deadline": "2026-11-04",
     "employer_posted_date": "2026-10-28",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-10-29T15:01:44-04:00"
   },
   {
@@ -15191,7 +15195,7 @@
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "This is a full-time regular role. You will be working on a flexible hybrid schedule as part of Fidelity’s dynamic working arrangement. Support a wide variety of tasks and requests from IS Executives, Directors, Managers and business stakeholders including resource schedule change/move requests, resource forecasting by IS department / by project and cost-benefit analysis for options to augment current IS resourcing to meet business needs (e.g. University degree (Accounting/Financial/Business Management) or equivalent experience. A minimum of 3 years’ experience. Expert in Microsoft Productivity Tools (O365, MS Office) work experience.",
+    "evidence": "This is a full-time regular role. You will be working on a flexible hybrid schedule as part of Fidelity’s dynamic working arrangement. Support a wide variety of tasks and requests from IS Executives, Directors, Managers and business stakeholders including resource schedule change/move requests, resource forecasting by IS department / by project and cost-benefit analysis for options to augment current IS resourcing to meet business needs (e.g. University degree (Accounting/Financial/Business Management) or equivalent experience. A minimum of 3 years’ experience. Agile resource management experience.",
     "benefits": "Advertised — confirm coverage",
     "workplace": "Hybrid advertised",
     "schedule": "Not stated / not extracted",
@@ -15211,7 +15215,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -15367,7 +15371,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -15409,7 +15413,7 @@
     "posted_date": "2026-10-29",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -15448,7 +15452,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -15530,7 +15534,7 @@
     "posted_date": "2026-10-29",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -15572,7 +15576,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -15616,7 +15620,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -16074,7 +16078,7 @@
     "posted_date": "2026-10-29",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16155,7 +16159,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -16235,7 +16239,7 @@
     "posted_date": "2026-10-29",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-30T14:41:00-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16277,7 +16281,7 @@
     "posted_date": "2026-10-31",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16317,7 +16321,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16479,7 +16483,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -16520,7 +16524,7 @@
     "posted_date": "2026-10-31",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -16638,7 +16642,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16678,7 +16682,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16848,7 +16852,7 @@
     "posted_date": "2026-11-01",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-01T13:27:57-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16886,7 +16890,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-01T13:27:57-05:00",
-    "last_seen": "2026-11-01T13:27:57-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -16966,7 +16970,7 @@
     "posted_date": "2026-10-30",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-01T13:27:57-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -17086,7 +17090,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17129,7 +17133,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17210,7 +17214,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17251,7 +17255,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17294,7 +17298,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -17337,7 +17341,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17419,7 +17423,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17459,7 +17463,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -17498,7 +17502,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -17537,7 +17541,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -17615,7 +17619,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17657,7 +17661,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17699,7 +17703,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17985,7 +17989,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -18072,7 +18076,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18156,7 +18160,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18195,7 +18199,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18274,7 +18278,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18354,7 +18358,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18561,7 +18565,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18601,7 +18605,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18641,7 +18645,7 @@
     "posted_date": "2026-11-02",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18683,7 +18687,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18805,7 +18809,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18847,7 +18851,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18886,7 +18890,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -18968,7 +18972,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -19008,7 +19012,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -19088,7 +19092,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "indeed"
     ],
@@ -19207,7 +19211,7 @@
     "posted_date": "2026-11-04",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -19247,7 +19251,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -19371,7 +19375,7 @@
     "posted_date": "2026-11-03",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "linkedin"
     ],
@@ -19411,7 +19415,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-04T15:28:25-05:00",
-    "last_seen": "2026-11-04T15:28:25-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -19419,5 +19423,1222 @@
     "last_verified": "2026-11-04T15:28:25-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-04T15:28:25-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 52,000.00–60,000.00 / yearly",
+    "evidence": "We’re looking to fill an open role for an incredible Bilingual Customer Service Experience Representative to join our Contact Centre team. Our goals are nothing short of being the best service experience in the world. Reporting to the Supervisor, Service Center, the Bilingual Customer Service Experience Representative is responsible for ensuring our customers receive exceptional service from knowledgeable, passionate people. Customer experience is what we are all about. Provide exceptional customer experience, take initiative to find creative solutions that make each customer’s experience feel personal Your experience and skills:",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 3,
+    "annual_base_min": 52000.0,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "2ed0f5803a2b7fe2",
+    "title": "Bilingual Customer Service Experience Representative",
+    "company": "Aviso",
+    "location": "Toronto, ON, Canada",
+    "url": "https://apply.workable.com/j/56289242FA",
+    "urls": [
+      "https://apply.workable.com/j/56289242FA",
+      "https://ca.indeed.com/viewjob?jk=a8b945bb2c94ec0b"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Supporting occupational health and safety procedures within work space Required skills & experience Experience in front-line reception or customer service position including working with vulnerable clients. Must be able to deal effectively and calmly with vulnerable clients, including those with mental health and/or addiction issues, both on phone and in person.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 4,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "c00a7126bf6d3da6",
+    "title": "French Bilingual Administrative Assistant",
+    "company": "Legal Aid Ontario",
+    "location": "Toronto, ON, Canada",
+    "url": "https://indeed.njoyn.com/cl4/xweb/XWeb.asp?BRID=463164&JobID=J1026-0792&clid=73708&page=jobdetails&sbdid=936",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=15ab7685dd774b7a",
+      "https://indeed.njoyn.com/cl4/xweb/XWeb.asp?BRID=463164&JobID=J1026-0792&clid=73708&page=jobdetails&sbdid=936"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 52,000.00–60,000.00 / yearly",
+    "evidence": "We're looking to fill an open role for an incredible Bilingual Customer Service Experience Representative to join our Contact Centre team. Our goals are nothing short of being the best service experience in the world. Reporting to the Supervisor, Service Center, the Bilingual Customer Service Experience Representative is responsible for ensuring our customers receive exceptional service from knowledgeable, passionate people. Customer experience is what we are all about. Provide exceptional customer experience, take initiative to find creative solutions that make each customer's experience feel personal Your experience and skills:",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 3,
+    "annual_base_min": 52000.0,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "78dd96f75d8d26fc",
+    "title": "Bilingual Customer Service Experience Representative",
+    "company": "Aviso",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4485853182",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4485853182"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Check driving requirements",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 18.20–20.15 / hourly",
+    "evidence": "This collaboration streamlines and enhances our customer experience by providing a range of ServiceOntario services. Customers can access a variety of government-related transactions and documents, from driver's license renewals to health card applications, all within the familiar environment of their local Staples store. Adhere to all health & safety, asset protection, privacy, and policy protocols. 1-2 years of prior customer service experience is required. Health and Dental benefits",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 5,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "fabedaa75bc98170",
+    "title": "Service Ontario - Bilingual Customer Support Specialist - French and English",
+    "company": "Staples Canada",
+    "location": "Scarborough, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487567008",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487567008"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Scheduling and workforce",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "EXPERIENCE AND EDUCATION Certificate or degree in production planning, manufacturing, or process engineering, or equivalent experience. Minimum of three (3) years of master scheduling and planning experience in a fully functioning ERP environment within aerospace, automotive, or heavy equipment manufacturing. Related supervisory experience. APICS training experience. The ideal candidate brings hands-on master scheduling and planning experience in an ERP-driven manufacturing environment, along with related supervisory experience.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
+    "id": "90f032e2ba3d8307",
+    "title": "Master Scheduler",
+    "company": "Axius Group, LLC",
+    "location": "North York, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487714758",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487714758"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Scheduling and workforce",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "We are seeking an experienced This role is ideal for a scheduler with strong mining project experience who understands the terminology, project lifecycle, and scheduling requirements associated with large-scale capital projects. Qualifications & Experience 5 years of project scheduling experience Mining project experience strongly preferred. Experience supporting projects through study, FEL, sanction, and execution phases.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
+    "id": "4cb2f68886133f18",
+    "title": "Project Scheduler",
+    "company": "NES Fircroft",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4486538083",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4486538083"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Scheduling and workforce",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Job Number: JR107596 Job Title: Lead - UKG Advanced Scheduler Solutions and Workforce Management Union: Union: Job Category: Professional Hospital Location: General Site Job Type: Permanent, Full time Number of Positions: 2 Minimum - Maximum Hourly Rate: $46.876 - $54.342 Hours: Days Scarborough Health Network (SHN) We are proud to be a community-affiliated teaching site for the University of Toronto and partner with a number of other universities and colleges, helping to train the next generation of health care professionals. SHN is the recipient of the 2021 Excellence in Diversity",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
+    "id": "2bcb7b206c528019",
+    "title": "Lead - UKG Advanced Scheduler Solutions and Workforce Management",
+    "company": "Scarborough Health Network",
+    "location": "Scarborough, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488012574",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488012574"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 22.00–38.00 / hourly",
+    "evidence": "We’re looking for someone who can provide an exceptional first impression, create a welcoming patient experience, and confidently oversee the day-to-day operations of our front desk. If you are organized, proactive, analytical, and passionate about both exceptional patient care and the success of a dental practice, we’d love to meet you. Your ResponsibilitiesPatient Experience & Front Desk Leadership Oversee daily front desk operations and ensure a professional, organized, and positive patient experience. Work with the dental team to ensure the schedule supports both an excellent patient experience and efficient clinical",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "2a2126c47e20806e",
+    "title": "Treatment Coordinator/Lead Receptionist",
+    "company": "Teeth and Beauty",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=53286646c6196624",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=53286646c6196624"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 55,000.00–60,000.00 / yearly",
+    "evidence": "Arrange for petty cash under $50 through the Front Desk when necessary. · Take the necessary extra step to improve the experience of our Guest's and promote return stays. Job Type: Full-time Pay: $55,000.00-$60,000.00 per year Benefits: Dental care",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 7,
+    "annual_base_min": 55000.0,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "a0d54e6fa0d206df",
+    "title": "Office Coordinator Maintenance Department",
+    "company": "DoubleTree by Hilton",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=a52a91d4ba7511eb",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=a52a91d4ba7511eb"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "With 10 sites and more than 44,000 TeamUHN members, UHN consists of Toronto General Hospital, Toronto Western Hospital, Princess Margaret Cancer Centre, Toronto Rehabilitation Institute, The Michener Institute of Education and West Park Healthcare Centre. UHN’s vision is to build A Healthier World and it’s only because of the talented and dedicated people who work here that we are continually bringing that vision closer to reality. Salary Range: $26.14 to $32.67 per hour Monday - Friday (0800 - 1600) Permanent Full-Time",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Weekdays advertised",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 5,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "e8ff1a0365cd6f14",
+    "title": "Administrative Assistant II - CIPP",
+    "company": "University Health Network",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488006218",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488006218"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Priority",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Eligibility/probation period mentioned: check when benefits begin"
+    ],
+    "salary": "CAD 45,000.00–55,000.00 / yearly",
+    "evidence": "Based in downtown Toronto, Hybrid Financial helps asset managers expand their reach and build stronger relationships with financial advisors across North America. You can learn more about us by visiting our website at https://hybridfinancial.com. Proven experience as a receptionist, office administrator, or similar role. Competitive compensation package with Access to a comprehensive benefits package through Canada Life following probation, covering Health, Dental, Vision, Life, AD&D, and an Employee Assistance Program. A conveniently located office at Bay & Wellington – with a kitchen stocked for your healthy snack and caffeine cravings",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 8,
+    "annual_base_min": 45000.0,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "eff1d639b525c91b",
+    "title": "Office Administrator & Receptionist",
+    "company": "Hybrid Financial Ltd.",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488004794",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488004794"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Experience Experience and specialization Area of work experience",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "33a218c02b55b53b",
+    "title": "administrative assistant",
+    "company": "Marble Trend Ltd.",
+    "location": "North York, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487563701",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487563701"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 25.60–31.86 / hourly",
+    "evidence": "You’ll contribute to a positive customer experience through clear communication, attentive service, and accurate information. Preferred: Customer service experience, sales or upselling strengths, and bilingual or multilingual ability, particularly in Spanish, can help you support a broader range of customer needs. Pay: $25.60-$31.86 per hour Benefits: Dental care",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 3,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "eee9a67fd46476cb",
+    "title": "Customer Service Representative",
+    "company": "Dovercraft Construction Chile",
+    "location": "Toronto, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=fa8823eb46fa6906",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=fa8823eb46fa6906"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 21.00–26.00 / hourly",
+    "evidence": "Job Type:** Full-Time (In-person) Schedule:** Monday to Saturday, 9:00 AM – 5:00 PM (EST) Compensation:** $21.00 – $26.00 per hour Previous experience in a receptionist, front desk, or customer service role (experience in a legal, immigration, or educational consultancy setting is a strong asset). Pay: $21.00-$26.00 per hour Benefits:",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "b78bd59127c96c68",
+    "title": "Receptionist - Immigration Firm",
+    "company": "Skylarks International",
+    "location": "Etobicoke, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=cd1b991884015edb",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=cd1b991884015edb"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Check driving requirements",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 18.20–20.15 / hourly",
+    "evidence": "This collaboration streamlines and enhances our customer experience by providing a range of ServiceOntario services. Customers can access a variety of government-related transactions and documents, from driver's license renewals to health card applications, all within the familiar environment of their local Staples store. Adhere to all health & safety, asset protection, privacy, and policy protocols. 1-2 years of prior customer service experience is required. Health and Dental benefits",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 5,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "a0abac06a3cca126",
+    "title": "Service Ontario - Bilingual Customer Support Specialist - French and English",
+    "company": "Staples Canada",
+    "location": "Scarborough, ON, Canada",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/77178",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=a87f99cfac0ada38",
+      "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/77178"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Experience in life insurance, financial services, banking, client service, or high-volume environments Proficient with Google Suite; Salesforce and insurance software experience preferred Experience working with life insurance claims is an asset The estimated salary range for this position is $40,000 - $55,000..",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "d276c1dcf6084f52",
+    "title": "Client Service Assistant (Life Insurance)",
+    "company": "Ratehub.ca",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488039506",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488039506"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Priority",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Our offices currently operate on a hybrid model with a combination of in-office and remote working days throughout the week. Quarterback the client onboarding process and establish a foundation for a positive client experience Minimum 3 years of related or transferable work experience Experience working independently, as well as in partnership with other team members The expected base salary range for this position is $60,000–$85,000 The midpoint represents our general market target for a fully qualified and experienced individual performing the role.",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 7,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "2e2d744b99e6ae42",
+    "title": "Associate, Private Client Services",
+    "company": "Connor, Clark & Lunn Financial Group (CC&L)",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4487770911",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4487770911"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "As a Customer Experience Associate, you are the face, character and heart of our branches. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. A competitive compensation and benefits package At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "b3181ad9acd396c9",
+    "title": "Customer Experience Associate - Queensway & Islington (15 hours/week)",
+    "company": "Scotiabank",
+    "location": "Toronto, ON, Canada",
+    "url": "https://jobs.scotiabank.com/job/Toronto-Customer-Experience-Associate-Queensway-&-Islington-%2815-hoursweek%29-ON-M8Z1P7/607785417",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=c31f6cdb4a8c6553",
+      "https://jobs.scotiabank.com/job/Toronto-Customer-Experience-Associate-Queensway-&-Islington-%2815-hoursweek%29-ON-M8Z1P7/607785417"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 45,700.00–61,000.00 / yearly",
+    "evidence": "$45,700.00 - $61,000.00 CAD Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs. At the branch, we understand customer needs and identify opportunities to promote products and services to refer customers to the appropriate team",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 2,
+    "annual_base_min": 45700.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "444e6244485940b7",
+    "title": "Personal Banking Associate Trainee",
+    "company": "TD",
+    "location": "Etobicoke, ON, Canada",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Etobicoke-Ontario/Personal-Banking-Associate-Trainee_R_1518686-1",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=a83837ab83e7daef",
+      "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Etobicoke-Ontario/Personal-Banking-Associate-Trainee_R_1518686-1"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": "2026-12-25",
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 50,000.00–60,000.00 / yearly",
+    "evidence": "With over $700 million in GIC assets under administration and relationships with more than 30 financial institutions, we specialize in helping individuals, businesses and condominium corporations access competitive Guaranteed Investment Certificate (GIC) rates. Previous administrative experience, preferably in banking, financial services, investments or a professional office. Experience with GICs or investment administration is an asset but not required. Competitive annual salary of $50,000 -$60,000, based on qualifications and experience. Stable, full-time employment with an established Canadian financial-services company. Benefits - Dental/Pharmaceutical.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 4,
+    "annual_base_min": 50000.0,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "1f7cb90e93d9439f",
+    "title": "Financial Services Administrative Assistant",
+    "company": "GIC Wealth Management Inc.",
+    "location": "North York, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=442169b1571e8603",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=442169b1571e8603"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 35,500.00–55,000.00 / yearly",
+    "evidence": "Works collaboratively within the branch and through various channels with BMO partners to deliver the desired customer experience and achieve overall business objectives. Contributes to meeting branch business results and the customer experience. Takes the initiative to find creative approaches that make each customer’s experience feel personal. Looks for ways to contribute to the ongoing improvement of the overall customer experience. Contributes to business results and the overall experience delivered. No prior experience necessary; post-secondary degree or certification in related field of study is desirable.",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": 35500.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "79bda6fe320c04b8",
+    "title": "Customer Service Representative",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Customer-Service-Representative_R260030803",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Customer-Service-Representative_R260030803",
+      "https://ca.indeed.com/viewjob?jk=0e31e1684d0eca6a"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": "2026-11-30",
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Review experience/supervisory requirements carefully",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 38,000.00–72,000.00 / yearly",
+    "evidence": "This integrated approach enables a more personalized client experience while giving team members exposure to a broad range of expertise, capabilities, and career paths. As a Client Service Associate with BMO Nesbitt Burns, you’ll be an integral part of an Investment Advisor team, helping deliver a high-quality wealth management experience to clients. Work collaboratively with BMO partners and colleagues to connect clients with broader Wealth solutions and deliver a seamless client experience. Typically 3–5 years of relevant experience, or an equivalent combination of education and experience. The expected pay range",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 5,
+    "annual_base_min": 38000.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "44bf0d18b3e2e0a9",
+    "title": "Client Service Associate, Private Wealth",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Client-Service-Associate--Private-Wealth_R260029589-1",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Client-Service-Associate--Private-Wealth_R260029589-1",
+      "https://ca.indeed.com/viewjob?jk=6100aa289076799a"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": "2026-11-18",
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 33,500.00–60,000.00 / yearly",
+    "evidence": "This integrated approach enables a more personalized client experience while giving team members exposure to a broad range of expertise, capabilities, and career paths. Develops rapport and instills confidence with the client to develop credibility and promote a positive client experience resulting in retaining long- term client relationships and delivers an exceptional client experience. Works collaboratively within the market, BMO partners and the community to build relationships and deliver the desired customer experience. Typically between 1 – 2 years of relevant experience and post-secondary degree in related field of study",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": 33500.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "589ef92aeabf20ed",
+    "title": "Client Service Assistant, Private Wealth",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Client-Service-Assistant--Private-Wealth_R260030395-1",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Client-Service-Assistant--Private-Wealth_R260030395-1",
+      "https://ca.indeed.com/viewjob?jk=9a9567925f8257f4"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": "2026-11-18",
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 35,500.00–65,000.00 / yearly",
+    "evidence": "Works collaboratively within the branch and through various channels with BMO partners to deliver the desired customer experience and achieve overall business objectives. Contributes to meeting branch business results and the customer experience. Takes the initiative to find creative approaches that make each customer’s experience feel personal. Looks for ways to contribute to the ongoing improvement of the overall customer experience. Contributes to business results and the overall experience delivered. Typically between 1 – 2 years of relevant experience and/or certification in related field of study desirable or an equivalent",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": 35500.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "19614cabcd6498f6",
+    "title": "Personal Banking Associate",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Personal-Banking-Associate_R260030859-1",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Personal-Banking-Associate_R260030859-1",
+      "https://ca.indeed.com/viewjob?jk=9bc0ac080b19e377"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": "2026-11-30",
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 40,500.00–80,000.00 / yearly",
+    "evidence": "Supports the delivery of an exceptional customer experience to private banking clients. Typically between 2 – 3 years of relevant experience and post-secondary degree in related field of study desirable or an equivalent combination of education and experience. Salary** **: $40,500.00 - $80,000.00 Salaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position.",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": 40500.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "feeeabdc2dbd762b",
+    "title": "Banking Officer, Banking Client Solutions Team",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Banking-Officer--Banking-Client-Solutions-Team_R260030734",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Banking-Officer--Banking-Client-Solutions-Team_R260030734",
+      "https://ca.indeed.com/viewjob?jk=e9b4c2e1b8e4d0f8"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": "2026-11-19",
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 20.56–25.70 / hourly",
+    "evidence": "Positive, un-big bank like service experience delivered through Member-facing staff in branch, on the phone (Member-Connect) and via our Mobile mortgage specialists, Wealth Management advisors and Commercial and Business Banking Account Managers. The MSR provides outstanding Member experience and service that is accurate, timely, and efficient. Promote DUCA's full range of services by explaining benefits and features of DUCA solutions, open new Member accounts, and make quality referrals to an advisor through proactive probing Occupational Experience & Education Requirements Experience working with and handling cash Two years' experience helping Members",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "ae5801d7105d4fd6",
+    "title": "Member Service Representative (Part-Time - 25-30hrs)",
+    "company": "DUCA Credit Union Ltd.",
+    "location": "Toronto, ON, Canada",
+    "url": "https://duca.talentnest.com/en/posting/245642/location/294049",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=eed4c6221d9f7704",
+      "https://duca.talentnest.com/en/posting/245642/location/294049"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "deadline": null,
+    "employer_posted_date": "2026-11-04",
+    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "You will be required to be fully available to work during RBC's retail branch hours of operation, including extended hours Monday through Saturday until 8:00 PM and Sunday as applicable. Whether you’re demonstrating to a client how to use digital banking, on-boarding a new client, or referring a complex opportunity to a specialist, your expertise will contribute to creating meaningful and memorable client experiences to drive client satisfaction and loyalty. Focus on client education and demonstration, leveraging technology to deliver a memorable client experience, drive sales, and retain business A",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "e249e39e40c15b24",
+    "title": "Banking Advisor - Richmond Hill (Bilingual - Mandarin, Cantonese, or Russian)",
+    "company": "RBC",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4454055021",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4454055021"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 52,000.00–60,000.00 / yearly",
+    "evidence": "We're looking to fill an open role with an incredible Customer Service Experience Representative to join our Contact Centre team. Our goals are nothing short of being the best service experience in the world. Reporting to the Supervisor, Service Center, the Customer Service Experience Representative is responsible for ensuring our customers receive exceptional service from knowledgeable, passionate people. Customer experience is what we are all about. Provide exceptional customer experience, take initiative to find creative solutions that make each customer's experience feel personal Your experience and skills:",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 3,
+    "annual_base_min": 52000.0,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "cf5fc01f8bf86ab4",
+    "title": "Customer Service Experience Representative",
+    "company": "Aviso",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4488038792",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4488038792"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Our Senior Customer Experience Associates are the face, character and heart of our branches. Have experience with conducting simple sales, proactive marketing calls and providing financial advice Previous banking experience is a strong asset A competitive compensation and benefits package At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "8ed3cb9b48882920",
+    "title": "Customer Experience Associate - Danforth & Pape Branch (full time)",
+    "company": "Scotiabank",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4486545294",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4486545294"
+    ],
+    "posted_date": "2026-11-04",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "You are as unique as your background, experience and point of view. At Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. With the constant evolution of technology, having strong consultants who provide personalized support allows us to focus on a high end client experience while strengthening the Sun Life brand. Call center experience Experience with systems such as Univeris, FundServ, ATON/TMX, Customer Service Work Bench (CSW) Flexible Benefits from the day you join to meet the needs of you and",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 5,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "441c249c581bc8c6",
+    "title": "Bilingual Customer Service Representative - Mutual funds Operations",
+    "company": "Sunlife",
+    "location": "North York, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4486556233",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4486556233"
+    ],
+    "posted_date": "2026-11-05",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-05T15:44:08-05:00",
+    "last_seen": "2026-11-05T15:44:08-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-05T15:44:08-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-05T15:44:08-05:00"
   }
 ]
