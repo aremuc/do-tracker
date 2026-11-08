@@ -1,6 +1,7 @@
 import json
 import tempfile
 import unittest
+from datetime import datetime
 from pathlib import Path
 from unittest.mock import patch
 
@@ -176,13 +177,20 @@ class SafetyAndVerificationTests(unittest.TestCase):
 
     def test_total_outage_preserves_existing_listing_content(self):
         from tracker import update
-        with tempfile.TemporaryDirectory() as d:
-            root=Path(d);(root/'data').mkdir();(root/'tracker').mkdir();(root/'tracker/viewer.html').write_text('__JOBS__')
-            (root/'config.json').write_text(json.dumps(CONFIG));jobs=merge([],[raw()],CONFIG,NOW)
-            (root/'data/jobs.json').write_text(json.dumps(jobs))
-            with patch.object(update,'ROOT',root),patch.object(update,'discover',return_value=([],[{'source':'Test','status':'failed'}])),patch('sys.argv',['update']):
-                self.assertEqual(update.main(),1)
-            self.assertEqual(json.loads((root/'data/jobs.json').read_text()),jobs)
+        # Outages retain every listing, while normal age/deadline rules still apply.
+        for current, expected_status in [(NOW, 'Unverified'),
+                                         ('2026-11-08T12:00:00-05:00', 'Stale — recheck')]:
+            with self.subTest(current=current), tempfile.TemporaryDirectory() as d:
+                root=Path(d);(root/'data').mkdir();(root/'tracker').mkdir();(root/'tracker/viewer.html').write_text('__JOBS__')
+                (root/'config.json').write_text(json.dumps(CONFIG));jobs=merge([],[raw()],CONFIG,NOW)
+                (root/'data/jobs.json').write_text(json.dumps(jobs))
+                with patch.object(update,'ROOT',root),patch.object(update,'discover',return_value=([],[{'source':'Test','status':'failed'}])),patch.object(update,'datetime') as clock,patch('sys.argv',['update']):
+                    clock.now.return_value = datetime.fromisoformat(current)
+                    self.assertEqual(update.main(),1)
+                expected = [{**job, 'status': expected_status} for job in jobs]
+                self.assertEqual(json.loads((root/'data/jobs.json').read_text()),expected)
+                health = json.loads((root/'data/health.json').read_text())
+                self.assertEqual(health, [{'source':'Test','status':'failed','checked_at':current}])
 
     def test_no_unsafe_application_url(self):
         self.assertEqual(canonical('javascript:alert(1)'), '')
