@@ -5,17 +5,17 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.0,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 19.3,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: staff scheduler / Toronto, ON",
     "status": "ok",
-    "count": 35,
+    "count": 37,
     "errors": {},
     "warnings": {},
-    "seconds": 17.5,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 16.4,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: workforce coordinator / Toronto, ON",
@@ -23,8 +23,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.0,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 17.4,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: operations coordinator / Toronto, ON",
@@ -32,8 +32,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.0,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 18.1,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: training coordinator / Toronto, ON",
@@ -41,17 +41,17 @@
     "count": 22,
     "errors": {},
     "warnings": {},
-    "seconds": 19.1,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 21.2,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: bilingual administrative assistant / Toronto, ON",
     "status": "ok",
-    "count": 26,
+    "count": 24,
     "errors": {},
     "warnings": {},
-    "seconds": 21.1,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 18.8,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: office coordinator / Toronto, ON",
@@ -59,8 +59,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 19.6,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 18.8,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: bilingual customer service / Toronto, ON",
@@ -68,8 +68,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 21.1,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 18.1,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: client service coordinator / Toronto, ON",
@@ -77,8 +77,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 17.4,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 20.0,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: banking customer service / Toronto, ON",
@@ -86,8 +86,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 18.5,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 21.7,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: bilingual insurance customer service / Toronto, ON",
@@ -95,8 +95,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 20.4,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 17.9,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "JobSpy: corporate receptionist / Toronto, ON",
@@ -104,19 +104,19 @@
     "count": 24,
     "errors": {},
     "warnings": {},
-    "seconds": 17.4,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "seconds": 19.6,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
-    "count": 4,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "count": 5,
+    "checked_at": "2026-11-13T15:32:13-05:00"
   },
   {
     "source": "City of Toronto",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-11-12T15:56:55-05:00"
+    "checked_at": "2026-11-13T15:32:13-05:00"
   }
 ]
