@@ -1,22 +1,22 @@
 # Source health
 
-[Home](../README.md) · Latest collection attempt: 2026-11-13T15:32:13-05:00
+[Home](../README.md) · Latest collection attempt: 2026-11-14T13:46:22-05:00
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
 | JobSpy: bilingual client services / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: staff scheduler / Toronto, ON | ok | 37 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: staff scheduler / Toronto, ON | ok | 38 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: workforce coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: operations coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: training coordinator / Toronto, ON | ok | 22 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: bilingual administrative assistant / Toronto, ON | ok | 24 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: training coordinator / Toronto, ON | ok | 21 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: bilingual administrative assistant / Toronto, ON | ok | 23 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: office coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: bilingual customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: client service coordinator / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: banking customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | JobSpy: bilingual insurance customer service / Toronto, ON | ok | 40 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| JobSpy: corporate receptionist / Toronto, ON | ok | 24 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
-| University of Toronto | ok | 5 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| JobSpy: corporate receptionist / Toronto, ON | ok | 23 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
+| University of Toronto | ok | 3 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 | City of Toronto | ok | 0 | {&quot;errors&quot;: {}, &quot;warnings&quot;: {}} |
 
 ## Coverage limits
