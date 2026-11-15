@@ -1,6 +1,6 @@
 # Source health
 
-[Home](../README.md) · Latest collection attempt: 2026-11-14T13:46:22-05:00
+[Home](../README.md) · Latest collection attempt: 2026-11-15T14:24:42-05:00
 
 | Source | Result | Rows before filtering | Details |
 |---|---|---:|---|
