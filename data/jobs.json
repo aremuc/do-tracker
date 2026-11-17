@@ -28,10 +28,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4465169482"
     ],
-    "posted_date": "2026-10-24",
+    "posted_date": "2026-11-15",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-10-30T14:41:00-04:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -43,22 +43,21 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "1+ years' customer service experience Experience with heavy inbound and outbound calls and transferring calls Experience with proofreading and editing documents Benefits Cintas provides extended health care coverage for many services not covered by the Provincial Health Care System. A reasonable estimate of base salary for this role ranges between $19.84 - $25.01/Hour.",
-    "benefits": "Advertised — confirm coverage",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 5,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "f8f8aeabfa04b4fa",
@@ -72,7 +71,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1073,7 +1072,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1829,22 +1828,21 @@
   },
   {
     "category": "Scheduling and workforce",
-    "tier": "Priority",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "tier": "Review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Experience: Benefits: Extended health and dental coverage options, along with life insurance and disability benefits Mental health benefits Family building benefits Child care and pet benefits",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "Hybrid advertised",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 7,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "072e3a877f2fa0dc",
@@ -1858,7 +1856,7 @@
     "posted_date": "2026-11-15",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -2121,7 +2119,7 @@
       "City of Toronto",
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:22:39-05:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-15T14:24:42-05:00"
@@ -2331,7 +2329,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -2370,7 +2368,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -2456,7 +2454,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -2496,7 +2494,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -2534,7 +2532,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:22:39-05:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
@@ -2542,22 +2540,20 @@
   {
     "category": "Operations and training",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "At Cartier, we are proud to employ talent from many different backgrounds, experiences, and identities. Our objective is to create the most exceptional client experience with the most productive environment and team. Doing so with consistency across the network – giving our clients a unified experience throughout North America while enhancing our client development opportunities. To do so, we operate in an appointment recommended model, allowing us to provide clients with the best possible boutique experience, including personalized product curation, attention, and services for their creation. Support other transactional flows",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "In-person advertised",
-    "schedule": "Weekend/shift signal — review",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 6,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
     "id": "4fb245835acdbdb0",
@@ -2571,7 +2567,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -2614,7 +2610,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
@@ -2653,7 +2649,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-24T16:12:42-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
@@ -2780,8 +2776,8 @@
     ],
     "status": "Closed",
     "last_verified": "2026-10-24T16:12:42-04:00",
-    "verification_note": "Explicit closure message on posting page",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -2819,10 +2815,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-11-03T15:10:40-05:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -2899,10 +2895,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-03T15:10:40-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -2940,10 +2936,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_verified": "2026-10-24T16:12:42-04:00",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -2981,9 +2977,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -3022,9 +3018,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -3103,10 +3099,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-24T16:12:42-04:00",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4474536769 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Client services",
@@ -3183,10 +3179,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-03T15:10:40-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4458441506 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3269,9 +3265,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3311,9 +3307,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3354,9 +3350,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3473,9 +3469,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3514,10 +3510,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:06:20-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3555,9 +3551,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3596,12 +3592,13 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-03T15:10:40-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-02",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-17T16:49:26-05:00",
+    "missing_since": "2026-11-17"
   },
   {
     "category": "Administration",
@@ -3640,12 +3637,13 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-03T15:10:40-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-02",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-17T16:49:26-05:00",
+    "missing_since": "2026-11-17"
   },
   {
     "category": "Administration",
@@ -3721,9 +3719,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -3842,30 +3840,29 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-11-03T15:10:40-05:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "The Administrative Assistant acts as a key point of contact for internal stakeholders and contributes to creating a positive employee experience by providing timely, accurate, and confidential administrative support. 2-3 years’ experience in an administrative support role, ideally within a Human Resources environment. Experience working in a law firm or professional resources an asset. We believe in the importance of a Total Compensation package, ensuring our mix of salary, benefits, and perks are competitive within the market as well as a work-life balance. A comprehensive Benefits package that includes Health,",
-    "benefits": "Advertised — confirm coverage",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 5,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
     "id": "a0033694c8023525",
@@ -3879,14 +3876,14 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-11-03T15:10:40-05:00",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -4005,10 +4002,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-11-03T15:10:40-05:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4048,10 +4045,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:06:20-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4089,9 +4086,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-11-03T15:10:40-05:00",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4128,10 +4125,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-25T13:06:20-04:00",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4430761564 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4169,9 +4166,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4208,9 +4205,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4247,12 +4244,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-03T15:10:40-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-20",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='gipi.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/Careers/job/Toronto-ON/Office-Admini",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -4294,7 +4291,7 @@
     "status": "Closed",
     "last_verified": "2026-10-25T13:06:20-04:00",
     "verification_note": "Explicit closure message on posting page",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -7768,7 +7765,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-26T15:25:11-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-06T14:59:24-05:00"
@@ -8833,7 +8830,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:12:42-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -8912,7 +8909,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:12:42-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -9347,10 +9344,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4478901726"
     ],
-    "posted_date": "2026-10-20",
+    "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:12:42-04:00",
-    "last_seen": "2026-10-26T15:25:11-04:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -9786,7 +9783,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:12:42-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -10926,7 +10923,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:46:30-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-08T14:42:42-05:00"
@@ -11569,7 +11566,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-27T14:46:30-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-09T18:02:10-05:00"
@@ -12369,7 +12366,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-27T14:46:30-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -12821,7 +12818,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T14:56:23-04:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -12867,7 +12864,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-10T15:30:02-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-10T15:30:02-05:00"
@@ -12906,7 +12903,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-10T15:30:02-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-10T15:30:02-05:00"
@@ -13113,7 +13110,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -13150,7 +13147,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4484278597 (Caused by ResponseError('too m",
     "last_checked": "2026-11-09T18:02:10-05:00"
@@ -13192,7 +13189,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-10T15:30:02-05:00"
@@ -13721,7 +13718,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-11T15:15:07-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-11T15:15:07-05:00"
@@ -13762,7 +13759,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-11T15:15:07-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-11T15:15:07-05:00"
@@ -13880,7 +13877,7 @@
     "sources": [
       "City of Toronto"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-29T15:01:44-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-11T15:15:07-05:00"
@@ -13965,7 +13962,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-12T15:56:55-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-12T15:56:55-05:00"
@@ -14420,20 +14417,22 @@
   {
     "category": "Administration",
     "tier": "Review",
-    "employment": "Not established",
+    "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Health/dental benefits require confirmation",
+      "Check required licences/certifications and whether training is provided",
+      "Review experience/supervisory requirements carefully",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "",
-    "benefits": "Not stated / not extracted",
+    "evidence": "Preferred 5 years of experience in a similar administrative role. Preferred experience in a professional services environment; engineering, construction, or architectural firm experience preferred. Advanced proficiency in MS Office Suite (Excel, Word, PowerPoint, Outlook, Teams); experience with Word Styles required. As it happens, offering great benefits to our people is entirely possible: the numbers work out. Health, paramedical, vision, and dental coverage The salary range for this position is: $55,000-$65,000",
+    "benefits": "Advertised — confirm coverage",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 0,
+    "preference_score": 4,
     "annual_base_min": null,
     "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
     "id": "c3562e2903b4a55b",
@@ -14444,10 +14443,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4475598354"
     ],
-    "posted_date": "2026-10-26",
+    "posted_date": "2026-11-17",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-29T15:01:44-04:00",
-    "last_seen": "2026-11-01T13:27:57-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -14780,7 +14779,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-12T15:56:55-05:00"
   },
@@ -14980,7 +14979,7 @@
     "sources": [
       "City of Toronto"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-29T15:01:44-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-13T15:32:13-05:00"
@@ -15681,7 +15680,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-13T15:32:13-05:00"
   },
@@ -15720,7 +15719,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-13T15:32:13-05:00"
   },
@@ -17027,7 +17026,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -17066,7 +17065,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -17188,7 +17187,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:22:39-05:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
@@ -17397,7 +17396,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-02T17:22:39-05:00",
     "deadline": null,
     "employer_posted_date": "2026-10-22",
@@ -17595,7 +17594,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -17756,7 +17755,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-16T17:56:22-05:00"
   },
@@ -17797,7 +17796,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-16T17:56:22-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-16T17:56:22-05:00"
@@ -17837,10 +17836,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-11-02T17:22:39-05:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-02T17:22:39-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Operations and training",
@@ -17881,7 +17880,7 @@
     ],
     "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-11-02T17:22:39-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -17920,9 +17919,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-02T17:22:39-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -17959,12 +17958,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-02T17:22:39-05:00",
     "deadline": "2261-11-10",
     "employer_posted_date": "2026-11-02",
-    "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-11-02T17:22:39-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/External/job/Toronto-ON-CAN/Personal-",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Client services",
@@ -18001,10 +18000,10 @@
     "sources": [
       "University of Toronto"
     ],
-    "status": "Posting verified",
+    "status": "Closed",
     "last_verified": "2026-11-02T17:22:39-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-02T17:22:39-05:00"
+    "verification_note": "Explicit closure message on posting page",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -18252,7 +18251,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-03T15:10:40-05:00"
   },
@@ -18329,7 +18328,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-03T15:10:40-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-03T15:10:40-05:00"
@@ -18658,11 +18657,11 @@
       "indeed"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-11-03T15:10:40-05:00",
+    "last_verified": "2026-11-17T16:49:26-05:00",
     "deadline": null,
     "employer_posted_date": "2026-11-02",
     "verification_note": "Matching JobPosting structured data; availability still subject to employer changes",
-    "last_checked": "2026-11-03T15:10:40-05:00"
+    "last_checked": "2026-11-17T16:49:26-05:00"
   },
   {
     "category": "Administration",
@@ -21210,7 +21209,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-06T14:59:24-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -22395,10 +22394,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4485265510"
     ],
-    "posted_date": "2026-11-09",
+    "posted_date": "2026-11-17",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:02:10-05:00",
-    "last_seen": "2026-11-15T14:24:42-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -22439,7 +22438,7 @@
     "posted_date": "2026-11-09",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:02:10-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -22842,7 +22841,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-09T18:02:10-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -22924,7 +22923,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-10T15:30:02-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23649,7 +23648,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -23689,7 +23688,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -23813,7 +23812,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -23855,7 +23854,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -23939,7 +23938,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -23978,7 +23977,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24017,7 +24016,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24032,19 +24031,17 @@
     "employment": "Temporary / contract / part-time — review",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Temporary Full Time As a Learning Program Coordinator, you’ll help create exceptional learning and performance experiences for all Canada life employees and leaders. Monitor Learning & Development Mailbox – assist employees and people leaders with general questions regarding our learning and performance programs and experiences Experience working on and tracking of multiple projects simultaneously Experience working with SAP an asset This role follows a hybrid work model, with an in-office presence required three days per week at the designated office location.",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "Hybrid advertised",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
-    "bilingual_signal": true,
-    "preference_score": 7,
+    "bilingual_signal": false,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
     "id": "f00ecaba39c3236d",
@@ -24058,7 +24055,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24069,23 +24066,23 @@
   },
   {
     "category": "Client services",
-    "tier": "Priority",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "tier": "Review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "CAD 55,503.00–61,452.00 / yearly",
-    "evidence": "Permanent Position, Category 13 - Hiring Range $55,503 - $61,452 Contribute to team projects and initiatives aimed at improving customer service processes and overall customer experience Qualifications, Skills & Experience Post-secondary diploma or degree, and/or at least one year of relevant experience, or an equivalent combination of education and experience Previous experience with a contact centre or within a regulatory body, academic or credential assessment setting Demonstrated experience working in a fast-paced environment",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "Hybrid advertised",
-    "schedule": "Weekdays advertised",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 11,
-    "annual_base_min": 55503.0,
+    "preference_score": 1,
+    "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "6944b90ebe6a72fc",
     "title": "BILINGUAL CLIENT SERVICES ASSISTANT",
@@ -24098,7 +24095,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24257,7 +24254,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -24380,7 +24377,7 @@
     "posted_date": "2026-11-10",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -24506,7 +24503,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -24715,7 +24712,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-11T15:15:07-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24807,21 +24804,20 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "You are as unique as your background, experience and point of view. At Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. Experience in workforce or capacity planning, forecasting, logistics, supply chain, human resources planning, or another analytical planning function, with demonstrated ability to turn data and forecasts into forward-looking business recommendations. Experience querying and analyzing data using SQL. Experience using Tableau to visualize data, identify insights and communicate findings to business stakeholders. Post-secondary education in Business Administration, Statistics, Operations Research,",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "Hybrid advertised",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 4,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "9cb4472f39857ece",
@@ -24835,7 +24831,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -24847,23 +24843,20 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
-      "Annual range extracted from text; confirm currency and base versus total compensation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "Advertised annual range: $68,932–$90,000 (confirm currency)",
-    "evidence": "With 10 sites and more than 44,000 TeamUHN members, UHN consists of Toronto General Hospital, Toronto Western Hospital, Princess Margaret Cancer Centre, Toronto Rehabilitation Institute, The Michener Institute of Education and West Park Healthcare Centre. UHN’s vision is to build A Healthier World and it’s only because of the talented and dedicated people who work here that we are continually bringing that vision closer to reality. Salary Range : $68,932 - $90,000 annually Permanent Full-Time : Monday to Friday",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "In-person advertised",
-    "schedule": "Weekday pattern + extra-hours signal — review",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 3,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "8a9572649b94b1dc",
@@ -24877,7 +24870,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25037,7 +25030,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25076,7 +25069,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25118,7 +25111,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25234,7 +25227,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25314,7 +25307,7 @@
     "posted_date": "2026-11-11",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25355,7 +25348,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25473,7 +25466,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-12T15:56:55-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25555,7 +25548,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25596,7 +25589,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25637,7 +25630,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -25718,7 +25711,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25797,7 +25790,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25835,7 +25828,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -25875,7 +25868,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25917,7 +25910,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -25959,7 +25952,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26001,7 +25994,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26162,7 +26155,7 @@
     "posted_date": "2026-11-12",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-13T15:32:13-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26202,7 +26195,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26244,7 +26237,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26325,7 +26318,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26365,7 +26358,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-15T14:24:42-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26404,7 +26397,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26446,7 +26439,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26489,7 +26482,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26500,23 +26493,21 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Vous travaillerez dans un mode de travail hybride à partir de notre bureau de Toronto, Montréal ou Sackville. Le salaire de base prévu pour ce poste se situe entre 44,000 $ et 60,000 $. You will be based in our Toronto, Montreal or Sackville office in a Hybrid work model. Salary Range: The expected base salary range for this role is $44,200 - $60,000. Individual job offers are determined by various factors, including experience, education, skills, certifications, and other business needs.",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "Hybrid advertised",
-    "schedule": "Weekend/shift signal — review",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 5,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "73ded3d1cd9037e9",
@@ -26530,7 +26521,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26572,7 +26563,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26612,7 +26603,7 @@
     "posted_date": "2026-11-13",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-14T13:46:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26862,7 +26853,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26903,7 +26894,7 @@
     "posted_date": "2026-11-14",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -26941,7 +26932,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -26981,7 +26972,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27023,7 +27014,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27064,7 +27055,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "University of Toronto",
       "indeed"
@@ -27105,7 +27096,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27145,7 +27136,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27343,7 +27334,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -27421,7 +27412,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -27461,7 +27452,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "indeed"
     ],
@@ -27499,7 +27490,7 @@
     "posted_date": "2026-11-16",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-16T17:56:22-05:00",
-    "last_seen": "2026-11-16T17:56:22-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
     "sources": [
       "linkedin"
     ],
@@ -27507,5 +27498,445 @@
     "last_verified": "2026-11-16T17:56:22-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-16T17:56:22-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Confirm Ontario eligibility, office visits and remote-work restrictions",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 23.18–28.97 / hourly",
+    "evidence": "Reports To:** Lead, Customer Experience Each interaction helps strengthen trust in CNIB and the services we represent while positively shaping the overall customer experience. This role offers the opportunity to make a meaningful difference in people's lives while developing experience across customer service, accessibility, technology, e-commerce, philanthropy and community-based services. The Specialist receives training across several CNIB and partner service areas and works as part of a collaborative team committed to delivering an inclusive and positive customer experience. Represent CNIB and the organizations and services supported by the Contact Centre",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Remote advertised",
+    "schedule": "Weekdays advertised",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 3,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "205ac716c586c0db",
+    "title": "Bilingual Customer Care Specialist",
+    "company": "Canadian National Institute for the Blind",
+    "location": "Toronto, ON, Canada",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9201339194099_2&cid=d11ffc9d-03c4-42b1-91e9-67585affd0b9&jobId=971110&lang=en_CA",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=11df31052d8dfde1",
+      "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9201339194099_2&cid=d11ffc9d-03c4-42b1-91e9-67585affd0b9&jobId=971110&lang=en_CA"
+    ],
+    "posted_date": "2026-11-17",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Scheduling and workforce",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Review experience/supervisory requirements carefully",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Minimum 8–10 years of experience in project scheduling and controls, preferably in heavy civil, infrastructure, transit, tunnelling, or major construction projects. Experience in transit projects is a bonus Extensive hands-on experience with Primavera P6 in developing, updating, analyzing, and maintaining large, complex, integrated project schedules. Demonstrated experience managing resource-loaded and cost-loaded schedules, Earned Value Management (EVM). Experience preparing and presenting schedule reports and analyses to clients, consultants, and senior management. Advanced Microsoft Excel skills; experience with TILOS, Power BI, and other project controls/reporting tools is an asset.",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 4,
+    "annual_base_min": null,
+    "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
+    "id": "861d4de4fde1327a",
+    "title": "Senior Scheduler",
+    "company": "Webuild",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4490465540",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4490465540"
+    ],
+    "posted_date": "2026-11-17",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 48,450.00–80,750.00 / yearly",
+    "evidence": "2–4 years of corporate administrative, coordination, or related professional experience. Experience using Microsoft 365 Copilot or other AI-enabled productivity tools is considered an asset. Experience managing calendars, coordinating meetings, and arranging corporate travel. Referenced Salary Location Hybrid Base salary range is expected to be between",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 5,
+    "annual_base_min": 48450.0,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "025d90cffa143e45",
+    "title": "Administrative Assistant, Level 3",
+    "company": "Manulife",
+    "location": "Toronto, ON, Canada",
+    "url": "https://careers.manulife.com/global/en/job/JR26110749/Administrative-Assistant-Level-3",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=6cdde3e3513351b5",
+      "https://careers.manulife.com/global/en/job/JR26110749/Administrative-Assistant-Level-3"
+    ],
+    "posted_date": "2026-11-17",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 37,000.00–44,000.00 / yearly",
+    "evidence": "We are looking for:** A Full-Time Permanent Client Service Representative Hours of Work:** Monday – Thursday: 12:30PM to 8:30PM, Friday: 1:30PM to 8:30PM. This is a hybrid work from home role. Hiring Salary Range:** The salary for this role ranges from $37,000 to $44,000 per year, depending on your skills and experience. On top of a competitive base salary, we support rest and overall wellness through generous paid time off for vacation, personal and sick days. Circle of Care Benefits:",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 7,
+    "annual_base_min": 37000.0,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "e29783a7ae01e65a",
+    "title": "Customer Service Representative",
+    "company": "Circle of Care, Sinai Health",
+    "location": "Toronto, ON, Canada",
+    "url": "https://jobs.dayforcehcm.com/en-US/circleofcare/CANDIDATEPORTAL/jobs/4398",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=2cd2062526afa236",
+      "https://jobs.dayforcehcm.com/en-US/circleofcare/CANDIDATEPORTAL/jobs/4398"
+    ],
+    "posted_date": "2026-11-16",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Operations and training",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Review experience/supervisory requirements carefully",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 55,500.00–120,000.00 / yearly",
+    "evidence": "Typically between 4 - 6 years of relevant experience and post-secondary degree in related field of study or an equivalent combination of education and experience. Experience in learning design and facilitation. Technical proficiency gained through education and/or business experience. Salary** **: $55,500.00 - $120,000.00 Salaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure.",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 4,
+    "annual_base_min": 55500.0,
+    "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
+    "id": "5f2fe0d90740e158",
+    "title": "Learning Coordinator",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Learning-Coordinator_R260031377",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Learning-Coordinator_R260031377",
+      "https://ca.indeed.com/viewjob?jk=b57b8a4d2102a5ec"
+    ],
+    "posted_date": "2026-11-16",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Request failed: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/External/job/Toronto-ON-CAN/Learning-",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Operations and training",
+    "tier": "Review",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
+    "id": "b951a8b3d0fe34a7",
+    "title": "Learning Coordinator",
+    "company": "BMO",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4491538447",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4491538447"
+    ],
+    "posted_date": "2026-11-16",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 40,000.00–55,000.00 / yearly",
+    "evidence": "· Previous experience in an immigration or legal office is considered an asset Compensation & Benefits · Competitive salary based on experience · Group benefits package Pay: $40,000.00-$55,000.00 per year Benefits:",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 5,
+    "annual_base_min": 40000.0,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "8345a461f6779d2c",
+    "title": "Immigration Administrative Assistant (Bilingual: English & Mandarin)",
+    "company": "Great Triumph Immigration Services Inc.",
+    "location": "North York, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=db269904bf5f18ba",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=db269904bf5f18ba"
+    ],
+    "posted_date": "2026-11-16",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Our team is a mix of experienced professionals and young, motivated talent. Required Skills & Experience Legally eligible to work in Canada (no sponsorship available) Experience in accounting firms Assist in drafting monthly newsletters to share important tips and reminders—such as how to make CRA payments, send documents efficiently, or understand common tax credits like the Trillium Benefit and GST/HST credit. Full-time, Monday to Friday",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Weekdays advertised",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 6,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "ec89b8113d78f781",
+    "title": "Office Administrator",
+    "company": "Olaya Management & Accounting Inc.",
+    "location": "North York, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4489810881",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4489810881"
+    ],
+    "posted_date": "2026-11-17",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "7dc8ee38d582cd31",
+    "title": "Administrative Assistant",
+    "company": "Colliers",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4490177097",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4490177097"
+    ],
+    "posted_date": "2026-11-17",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Review experience/supervisory requirements carefully",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Our Senior Customer Experience Associates are the face, character and heart of our branches. Have experience with conducting simple sales, proactive marketing calls and providing financial advice Previous banking experience is a strong asset A competitive compensation and benefits package At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "8e4933f9a572903f",
+    "title": "Senior Customer Experience Associate - The Well (30 hours/week)",
+    "company": "Scotiabank",
+    "location": "Toronto, ON, Canada",
+    "url": "https://jobs.scotiabank.com/job/Toronto-Senior-Customer-Experience-Associate-The-Well-%2830-hoursweek%29-ON-M5V0T1/608099117",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=0746980635187c31",
+      "https://jobs.scotiabank.com/job/Toronto-Senior-Customer-Experience-Associate-The-Well-%2830-hoursweek%29-ON-M5V0T1/608099117"
+    ],
+    "posted_date": "2026-11-17",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-17T16:49:26-05:00"
+  },
+  {
+    "category": "Operations and training",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Freedom and a healthy work- life balance– Embrace our flexible work environment with flex hours, telecommuting and digital workspaces. Field service dispatch experience Billing experience Salary is commensurate with experience, and ranges between $59 000,00 CAD - $65 000,00 CAD, excluding benefits. Siemens Canada is a leading technology company focused on industry, infrastructure, mobility and healthcare. Siemens also owns a majority stake in the publicly listed company Siemens Healthineers, a leading global medical technology provider pioneering breakthroughs in healthcare.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 5,
+    "annual_base_min": null,
+    "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
+    "id": "33dfa0ee6ca15eac",
+    "title": "Bilingual Service Coordinator - Hybrid",
+    "company": "Siemens",
+    "location": "Toronto, ON, Canada",
+    "url": "https://jobs.siemens.com/externaljobs/JobDetail/529245",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=5512bcfceb8c4218",
+      "https://jobs.siemens.com/externaljobs/JobDetail/529245"
+    ],
+    "posted_date": "2026-11-12",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-17T16:49:26-05:00",
+    "last_seen": "2026-11-17T16:49:26-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-17T16:49:26-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-17T16:49:26-05:00"
   }
 ]
