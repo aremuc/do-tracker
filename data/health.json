@@ -5,87 +5,20 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 14.7,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "seconds": 18.1,
+    "checked_at": "2026-11-21T15:10:02-05:00"
   },
   {
     "source": "JobSpy: staff scheduler / Toronto, ON",
     "status": "ok",
-    "count": 24,
+    "count": 25,
     "errors": {},
     "warnings": {},
-    "seconds": 16.0,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "seconds": 15.4,
+    "checked_at": "2026-11-21T15:10:02-05:00"
   },
   {
     "source": "JobSpy: workforce coordinator / Toronto, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
-    "warnings": {},
-    "seconds": 15.7,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: operations coordinator / Toronto, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
-    "warnings": {},
-    "seconds": 13.7,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: training coordinator / Toronto, ON",
-    "status": "degraded",
-    "count": 3,
-    "errors": {
-      "linkedin": "response status code 429 (blocked: use a proxy)"
-    },
-    "warnings": {},
-    "seconds": 0.3,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: bilingual administrative assistant / Toronto, ON",
-    "status": "degraded",
-    "count": 13,
-    "errors": {
-      "linkedin": "response status code 429 (blocked: use a proxy)"
-    },
-    "warnings": {},
-    "seconds": 9.0,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: office coordinator / Toronto, ON",
-    "status": "ok",
-    "count": 37,
-    "errors": {},
-    "warnings": {},
-    "seconds": 18.1,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: bilingual customer service / Toronto, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
-    "warnings": {},
-    "seconds": 13.2,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: client service coordinator / Toronto, ON",
-    "status": "ok",
-    "count": 40,
-    "errors": {},
-    "warnings": {},
-    "seconds": 13.6,
-    "checked_at": "2026-11-20T16:17:42-05:00"
-  },
-  {
-    "source": "JobSpy: banking customer service / Toronto, ON",
     "status": "degraded",
     "count": 20,
     "errors": {
@@ -93,38 +26,107 @@
     },
     "warnings": {},
     "seconds": 0.4,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "checked_at": "2026-11-21T15:10:02-05:00"
   },
   {
-    "source": "JobSpy: bilingual insurance customer service / Toronto, ON",
+    "source": "JobSpy: operations coordinator / Toronto, ON",
     "status": "ok",
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 21.0,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "seconds": 15.6,
+    "checked_at": "2026-11-21T15:10:02-05:00"
   },
   {
-    "source": "JobSpy: corporate receptionist / Toronto, ON",
+    "source": "JobSpy: training coordinator / Toronto, ON",
     "status": "degraded",
-    "count": 13,
+    "count": 2,
     "errors": {
       "linkedin": "response status code 429 (blocked: use a proxy)"
     },
     "warnings": {},
+    "seconds": 0.2,
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: bilingual administrative assistant / Toronto, ON",
+    "status": "ok",
+    "count": 22,
+    "errors": {},
+    "warnings": {},
+    "seconds": 16.7,
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: office coordinator / Toronto, ON",
+    "status": "degraded",
+    "count": 18,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
+    "warnings": {},
+    "seconds": 0.3,
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: bilingual customer service / Toronto, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
+    "seconds": 15.4,
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: client service coordinator / Toronto, ON",
+    "status": "ok",
+    "count": 40,
+    "errors": {},
+    "warnings": {},
     "seconds": 12.8,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: banking customer service / Toronto, ON",
+    "status": "degraded",
+    "count": 30,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
+    "warnings": {},
+    "seconds": 8.7,
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: bilingual insurance customer service / Toronto, ON",
+    "status": "degraded",
+    "count": 20,
+    "errors": {
+      "linkedin": "response status code 429 (blocked: use a proxy)"
+    },
+    "warnings": {},
+    "seconds": 0.5,
+    "checked_at": "2026-11-21T15:10:02-05:00"
+  },
+  {
+    "source": "JobSpy: corporate receptionist / Toronto, ON",
+    "status": "ok",
+    "count": 23,
+    "errors": {},
+    "warnings": {},
+    "seconds": 13.4,
+    "checked_at": "2026-11-21T15:10:02-05:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
     "count": 3,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "checked_at": "2026-11-21T15:10:02-05:00"
   },
   {
     "source": "City of Toronto",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-11-20T16:17:42-05:00"
+    "checked_at": "2026-11-21T15:10:02-05:00"
   }
 ]
