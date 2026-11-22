@@ -5,8 +5,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 18.1,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 12.4,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: staff scheduler / Toronto, ON",
@@ -14,19 +14,17 @@
     "count": 25,
     "errors": {},
     "warnings": {},
-    "seconds": 15.4,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 16.7,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: workforce coordinator / Toronto, ON",
-    "status": "degraded",
-    "count": 20,
-    "errors": {
-      "linkedin": "response status code 429 (blocked: use a proxy)"
-    },
+    "status": "ok",
+    "count": 40,
+    "errors": {},
     "warnings": {},
-    "seconds": 0.4,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 15.2,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: operations coordinator / Toronto, ON",
@@ -34,19 +32,17 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 15.6,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 15.4,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: training coordinator / Toronto, ON",
-    "status": "degraded",
-    "count": 2,
-    "errors": {
-      "linkedin": "response status code 429 (blocked: use a proxy)"
-    },
+    "status": "ok",
+    "count": 22,
+    "errors": {},
     "warnings": {},
-    "seconds": 0.2,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 18.1,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: bilingual administrative assistant / Toronto, ON",
@@ -54,19 +50,19 @@
     "count": 22,
     "errors": {},
     "warnings": {},
-    "seconds": 16.7,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 17.3,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: office coordinator / Toronto, ON",
     "status": "degraded",
-    "count": 18,
+    "count": 26,
     "errors": {
       "linkedin": "response status code 429 (blocked: use a proxy)"
     },
     "warnings": {},
-    "seconds": 0.3,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 12.6,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: bilingual customer service / Toronto, ON",
@@ -74,8 +70,8 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 15.4,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 15.0,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: client service coordinator / Toronto, ON",
@@ -83,19 +79,17 @@
     "count": 40,
     "errors": {},
     "warnings": {},
-    "seconds": 12.8,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 16.2,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: banking customer service / Toronto, ON",
-    "status": "degraded",
-    "count": 30,
-    "errors": {
-      "linkedin": "response status code 429 (blocked: use a proxy)"
-    },
+    "status": "ok",
+    "count": 40,
+    "errors": {},
     "warnings": {},
-    "seconds": 8.7,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 18.5,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: bilingual insurance customer service / Toronto, ON",
@@ -105,28 +99,28 @@
       "linkedin": "response status code 429 (blocked: use a proxy)"
     },
     "warnings": {},
-    "seconds": 0.5,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 0.4,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "JobSpy: corporate receptionist / Toronto, ON",
     "status": "ok",
-    "count": 23,
+    "count": 22,
     "errors": {},
     "warnings": {},
-    "seconds": 13.4,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "seconds": 13.9,
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "University of Toronto",
     "status": "ok",
     "count": 3,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "checked_at": "2026-11-22T15:24:47-05:00"
   },
   {
     "source": "City of Toronto",
     "status": "ok",
     "count": 0,
-    "checked_at": "2026-11-21T15:10:02-05:00"
+    "checked_at": "2026-11-22T15:24:47-05:00"
   }
 ]
