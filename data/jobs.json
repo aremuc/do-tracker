@@ -321,7 +321,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-15T14:24:42-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-15T14:24:42-05:00"
@@ -1252,22 +1252,20 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Minimum 5 years of manufacturing production control/finite scheduling experience in a fast-paced, high-volume environment. Minimum 3 years of SAP experience within a planning function; ePPDS experience is an asset.",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
-    "schedule": "Weekend/shift signal — review",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 1,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "01e5bbe6bf9b1ee6",
@@ -1281,7 +1279,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -1948,9 +1946,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -3877,7 +3875,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -4003,7 +4001,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-17T16:49:26-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-17T16:49:26-05:00"
@@ -7045,23 +7043,22 @@
   },
   {
     "category": "Client services",
-    "tier": "Priority",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "tier": "Review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "FIRST Canada is an affiliate of Wintrust, a financial services company with more than $66 billion in assets. We offer a flexible, hybrid-work model and our FIRST Flex program offers opportunity to work internationally. We Have a Comprehensive Benefit Package Including Health Benefits: including medical, dental, vision, life, and health spending account Financial Benefits: an RRSP plan with a generous company match and competitive compensation including discretionary or incentive bonuses Education Benefits: education reimbursement and on-demand learning courses",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "Hybrid advertised",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
-    "employer_support": "Advertised — confirm with employer",
+    "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 8,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "b76b39133665c11f",
@@ -7075,7 +7072,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-24T16:03:57-04:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -10373,7 +10370,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T14:42:42-05:00",
     "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4480705906 (Caused by ResponseError('too m",
     "last_checked": "2026-11-23T20:01:39-05:00"
@@ -12147,7 +12144,7 @@
     "sources": [
       "City of Toronto"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -12233,7 +12230,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-10T15:30:02-05:00",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-26T17:26:53-05:00",
@@ -12275,7 +12272,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-26T17:26:53-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -12315,7 +12312,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -12354,7 +12351,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -12437,7 +12434,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -12518,7 +12515,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -12557,7 +12554,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-26T17:26:53-05:00",
     "missing_since": "2026-11-26"
@@ -12597,7 +12594,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-10T15:30:02-05:00",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-26T17:26:53-05:00",
@@ -12638,7 +12635,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -12678,7 +12675,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -12718,7 +12715,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-10T15:30:02-05:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -12760,7 +12757,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-26T17:26:53-05:00",
@@ -12807,7 +12804,7 @@
     "last_verified": "2026-11-10T15:30:02-05:00",
     "deadline": "2026-11-24",
     "employer_posted_date": "2026-11-10",
-    "verification_note": "Request failed: HTTPSConnectionPool(host='cibc.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/search/job/Toronto-ON/Creditor-Sales",
+    "verification_note": "Previously observed employer deadline has passed",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
   {
@@ -12855,23 +12852,21 @@
   {
     "category": "Banking and insurance fallback",
     "tier": "Fallback",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "You will be required to be fully available to work during RBC's retail branch hours of operation, including extended hours Monday through Saturday until 8:00 PM and Sunday as applicable. Whether you’re demonstrating to a client how to use digital banking, on-boarding a new client, or referring a complex opportunity to a specialist, your expertise will contribute to creating meaningful and memorable client experiences to drive client satisfaction and loyalty. Focus on client education and demonstration, leveraging technology to deliver a memorable client experience, drive sales, and retain business A",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
-    "schedule": "Weekend/shift signal — review",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 2,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "1352514be9f7fe26",
@@ -12882,14 +12877,14 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4484490365"
     ],
-    "posted_date": "2026-10-28",
+    "posted_date": "2026-11-27",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-28T14:56:23-04:00",
-    "last_seen": "2026-11-03T15:10:40-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-26T17:26:53-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -12968,7 +12963,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -13008,7 +13003,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -13048,7 +13043,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -13087,7 +13082,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-26T17:26:53-05:00",
@@ -13215,7 +13210,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -13255,12 +13250,12 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "deadline": null,
     "employer_posted_date": "2026-10-26",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13301,8 +13296,8 @@
     "last_verified": "2026-10-28T14:56:23-04:00",
     "deadline": "2026-11-10",
     "employer_posted_date": "2026-10-27",
-    "verification_note": "Previously observed employer deadline has passed",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/External/job/Toronto-ON-CAN/Customer-",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13339,9 +13334,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "status": "Unverified",
+    "verification_note": "Request failed: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/External/job/Toronto-ON-CAN/Personal-",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13378,10 +13373,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13418,10 +13413,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13463,8 +13458,8 @@
     "last_verified": "2026-10-28T14:56:23-04:00",
     "deadline": "2026-11-10",
     "employer_posted_date": "2026-10-26",
-    "verification_note": "Previously observed employer deadline has passed",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='td.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/TD_Bank_Careers/job/Toronto-Ontario/Co",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13501,10 +13496,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4484263645 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13543,10 +13538,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-27T17:07:38-05:00",
+    "missing_since": "2026-11-27"
   },
   {
     "category": "Client services",
@@ -13583,10 +13579,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-27T17:07:38-05:00",
+    "missing_since": "2026-11-27"
   },
   {
     "category": "Client services",
@@ -13625,10 +13622,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-11-11T15:15:07-05:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-27T17:07:38-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -13665,10 +13662,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-11T15:15:07-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4483718127 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -13706,10 +13703,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-10-28T14:56:23-04:00",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-27T17:07:38-05:00",
+    "missing_since": "2026-11-27"
   },
   {
     "category": "Administration",
@@ -13746,10 +13744,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-11T15:15:07-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4484286567 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Administration",
@@ -13787,10 +13785,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-11T15:15:07-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-27T17:07:38-05:00",
+    "missing_since": "2026-11-27"
   },
   {
     "category": "Client services",
@@ -13827,8 +13826,8 @@
       "linkedin"
     ],
     "status": "Closed",
-    "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4483678725 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Administration",
@@ -13868,7 +13867,7 @@
     "status": "Closed",
     "last_verified": "2026-10-29T15:01:44-04:00",
     "verification_note": "Explicit closure message on posting page",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -14521,8 +14520,8 @@
     "last_verified": "2026-10-29T15:01:44-04:00",
     "deadline": "2026-10-30",
     "employer_posted_date": "2026-10-28",
-    "verification_note": "Previously observed employer deadline has passed",
-    "last_checked": "2026-11-11T15:15:07-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='onetp.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /Teleperformance/job/TPCA-Toronto/Bilingua",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -16283,23 +16282,21 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "USD 47,000.00–71,000.00 / yearly",
-    "evidence": "Global Servicing (GS) oversees consumer travel and concierge experiences, all card customer service functions for the company’s global consumer, banking, merchant, and commercial customers, as well as the key enablement functions that power our products and services. GS provides the world’s best customer experience every day by building on Amex’s 175-year legacy of service excellence, leveraging new technologies and capabilities to drive transformation, and bringing a human touch to each customer interaction. Consult with Card Members and probe to understand their needs to resolve their inquiries and reinforce the benefits",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Hybrid advertised",
-    "schedule": "Weekend/shift signal — review",
-    "employer_support": "Not offered in text",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 5,
+    "preference_score": 4,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "e33af74ceacd800e",
@@ -16313,7 +16310,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -16325,7 +16322,7 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "Review experience/supervisory requirements carefully",
@@ -16333,13 +16330,13 @@
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "at Linesight, you will work with highly experienced, culturally diverse, and passionate teams nurturing a strong social dynamic and a shared sense of achievement. You will gain vast industry experience that will open doors for you, extend your skillset and expand your perspective. Have demonstrated quantitative risk assessment (QRA) experience and expertly interpret and communicate findings to key partners Have a degree or comparable experience in a project management or construction discipline Have working experience of using P6 The salary range for this role is between $151,000 and $165,000 but",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "In-person advertised",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 3,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "26f3eb85b9435828",
@@ -16353,7 +16350,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-10-31T13:50:19-04:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17288,7 +17285,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17346,22 +17343,20 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Monitor real-time performance and implement staffing adjustments to optimize customer experience and productivity. 3+ years of workforce management experience in a contact centre environment. Experience in quality assurance, claims, customer service, or assistance operations. Advanced proficiency in Microsoft Excel; experience with workforce management systems and Power BI is preferred. Experience in travel insurance, claims administration, or assistance services is an asset. Monday to Friday",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
-    "schedule": "Weekdays advertised",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
-    "bilingual_signal": true,
-    "preference_score": 4,
+    "bilingual_signal": false,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "5e8e0b76f25bdd6b",
@@ -17375,7 +17370,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -17624,22 +17619,21 @@
   },
   {
     "category": "Administration",
-    "tier": "Priority",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "tier": "Review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Monday to Friday, 9:00 a.m. Full-time, On-site Previous experience in an office assistant, administrative, hospitality, or client service role is preferred. Compensation & Benefits Salary range of $45,000 - $55,000 CAD, commensurate with experience. Comprehensive health and dental benefits.",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "In-person advertised",
-    "schedule": "Weekdays advertised",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 8,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
     "id": "9352fade5842a7be",
@@ -17653,7 +17647,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-02T17:22:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -18078,23 +18072,20 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
-      "Annual range extracted from text; confirm currency and base versus total compensation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "Advertised annual range: $75,000–$110,000 (confirm currency)",
-    "evidence": "Ensure you and your family receive the services and benefits needed to support your mental, emotional, and physical well-being. We are proud to support projects that are committed to faster and more convenient travel, ultimately improving transportation experiences. 4 to 7 years of experience in project planning/scheduling in the construction industry. Synchro and TILOS experience preferred. Contractor and Infrastructure project experience developing mid-size projects schedules is preferred. The expected pay range for this role is $75,000 - $110,000 per year",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 1,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "e218ab75042fc7e0",
@@ -18108,7 +18099,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-03T15:10:40-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -19613,7 +19604,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T15:44:08-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -20105,22 +20096,21 @@
   },
   {
     "category": "Client services",
-    "tier": "Priority",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "tier": "Review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Our offices currently operate on a hybrid model with a combination of in-office and remote working days throughout the week. Quarterback the client onboarding process and establish a foundation for a positive client experience Minimum 3 years of related or transferable work experience Experience working independently, as well as in partnership with other team members The expected base salary range for this position is $60,000–$85,000 The midpoint represents our general market target for a fully qualified and experienced individual performing the role.",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "Hybrid advertised",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 7,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "2e2d744b99e6ae42",
@@ -20131,10 +20121,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4487770911"
     ],
-    "posted_date": "2026-11-05",
+    "posted_date": "2026-11-27",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-05T15:44:08-05:00",
-    "last_seen": "2026-11-11T15:15:07-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -21612,7 +21602,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T14:42:42-05:00",
     "deadline": null,
     "employer_posted_date": "2026-11-06",
@@ -21745,7 +21735,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-24T18:06:42-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-24T18:06:42-05:00"
@@ -21791,7 +21781,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-13T15:32:13-05:00"
   },
@@ -21869,7 +21859,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "HTTP 401",
     "last_checked": "2026-11-24T18:06:42-05:00"
   },
@@ -21909,7 +21899,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-24T18:06:42-05:00"
   },
@@ -21947,7 +21937,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T14:42:42-05:00",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-24T18:06:42-05:00",
@@ -22071,7 +22061,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-08T14:42:42-05:00",
     "verification_note": "Posting URL returned 404",
     "last_checked": "2026-11-24T18:06:42-05:00",
@@ -22241,7 +22231,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-25T17:37:54-05:00"
   },
@@ -22725,7 +22715,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-25T17:37:54-05:00",
     "deadline": "2026-11-30",
     "employer_posted_date": "2026-11-06",
@@ -22806,7 +22796,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
   },
@@ -22844,7 +22834,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-09T18:02:10-05:00",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-26T17:26:53-05:00"
@@ -22926,9 +22916,9 @@
       "linkedin"
     ],
     "status": "Posting verified",
-    "last_verified": "2026-11-10T15:30:02-05:00",
+    "last_verified": "2026-11-27T17:07:38-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -22966,10 +22956,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -23004,9 +22994,9 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "verification_note": "HTTP 401",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -23046,7 +23036,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -23086,7 +23076,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -23124,10 +23114,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4487488855 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Scheduling and workforce",
@@ -23165,10 +23155,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-27T17:07:38-05:00",
+    "missing_since": "2026-11-27"
   },
   {
     "category": "Operations and training",
@@ -23204,10 +23195,11 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Posting URL returned 404",
+    "last_checked": "2026-11-27T17:07:38-05:00",
+    "missing_since": "2026-11-27"
   },
   {
     "category": "Operations and training",
@@ -23246,10 +23238,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Operations and training",
@@ -23290,10 +23282,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
-    "last_verified": "2026-11-10T15:30:02-05:00",
+    "status": "Posting verified",
+    "last_verified": "2026-11-27T17:07:38-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Administration",
@@ -23406,10 +23398,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4487760948 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -23451,7 +23443,7 @@
     ],
     "status": "Unverified",
     "verification_note": "Could not confirm a matching live posting and application route",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -23488,10 +23480,10 @@
     "sources": [
       "indeed"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -23528,10 +23520,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -23568,10 +23560,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4489605866 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Banking and insurance fallback",
@@ -23609,10 +23601,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Administration",
@@ -23649,10 +23641,10 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Stale — recheck",
+    "status": "Unverified",
     "last_verified": "2026-11-10T15:30:02-05:00",
-    "verification_note": "Matching title, substantive description and Apply control",
-    "last_checked": "2026-11-10T15:30:02-05:00"
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4485536552 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   },
   {
     "category": "Client services",
@@ -24713,7 +24705,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-11T15:15:07-05:00",
     "deadline": null,
     "employer_posted_date": "2026-11-06",
@@ -24993,7 +24985,7 @@
     "sources": [
       "indeed"
     ],
-    "status": "Unverified",
+    "status": "Stale — recheck",
     "verification_note": "Could not confirm a matching live posting and application route",
     "last_checked": "2026-11-12T15:56:55-05:00"
   },
@@ -26114,7 +26106,7 @@
     "sources": [
       "linkedin"
     ],
-    "status": "Posting verified",
+    "status": "Stale — recheck",
     "last_verified": "2026-11-13T15:32:13-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-13T15:32:13-05:00"
@@ -30247,7 +30239,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-21T15:10:02-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -30289,7 +30281,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-21T15:10:02-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -30300,22 +30292,20 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Minimum of 1 year of customer service or call center experience Must be available to work Monday to Friday 1pm to 9pm and Weekends 10am to 6pm Benefits To Joining Propel Competitive salary and health benefits Group health and dental benefits Salary Range",
-    "benefits": "Advertised — confirm coverage",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
-    "schedule": "Weekday pattern + extra-hours signal — review",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 4,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "923e7b28d7b2b5fe",
@@ -30329,7 +30319,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-21T15:10:02-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30341,22 +30331,20 @@
   {
     "category": "Banking and insurance fallback",
     "tier": "Fallback",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": ", and previous call-centre or collections experience is helpful but not required. Previous call center/collections experience is not required but considered an asset Benefits To Joining Propel Competitive salary and health benefits Group health and dental benefits Salary Range",
-    "benefits": "Advertised — confirm coverage",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
-    "schedule": "Weekend/shift signal — review",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 4,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "6aa274fbbf1f9e8e",
@@ -30370,7 +30358,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-21T15:10:02-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30412,7 +30400,7 @@
     "posted_date": "2026-11-20",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-21T15:10:02-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -30591,17 +30579,17 @@
     "employment": "Full-time/permanent advertised — confirm terms",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Receptionist - Permanent Full Time Days And we offer a number of programs and benefits that support team members’ financial, personal and professional needs: A competitive salary and vacation package Health & Dental benefits program A welcoming culture that values diversity and differing perspectives, experiences and beliefs Performing incidental clerical work including typing, filing, delivering messages, sorting mail, photocopying, faxing, etc.",
-    "benefits": "Advertised — confirm coverage",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 4,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
     "id": "bb62ae50f101750a",
@@ -30615,7 +30603,7 @@
     "posted_date": "2026-11-21",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-21T15:10:02-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30866,21 +30854,20 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "You’ll have a combination of client-facing skills and experience, operational know-how and problem-solving abilities. Prepared to go the extra mile to exceed customer expectations and experience Ability to excel within a busy client-facing environment with significant monthly workload peaks (previous experience preferred) Experience with Microsoft suite (particularly excel) Sales skills / experience is a PLUS Compensation: Salaries starting at CAD 60k annual base salary (depending on experience and seniority) + quarterly bonuses + accelerators for exceptional performance",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 1,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "68d336420852f930",
@@ -30894,7 +30881,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30906,21 +30893,21 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "CAD 48,000.00–55,000.00 / yearly",
-    "evidence": "As one of North America’s most experienced submetering providers, Metergy has brought turnkey solutions to clients for over 45 years. This sponsorship provides Metergy with access to large-scale capital, infrastructure investment expertise and global reach. This position is accountable for enhancing the customer experience through providing timely, helpful and professional assistance to customers who contact us. Must have previous call centre experience in an inbound call centre environment and/or experience with direct customer interaction in a service-oriented environment. Minimum high school diploma or equivalent experience / training. Utility, Telecom Industry",
-    "benefits": "Advertised — confirm coverage",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 5,
-    "annual_base_min": 48000.0,
+    "preference_score": 0,
+    "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "79d09e5032e98254",
     "title": "Customer Relations Specialist (Contact Centre, Spanish)",
@@ -30933,7 +30920,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30972,7 +30959,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -30984,22 +30971,21 @@
   {
     "category": "Scheduling and workforce",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Review experience/supervisory requirements carefully",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "USD 150,000.00–180,000.00 / yearly",
-    "evidence": "Must have current and relevant Transit / Rail experience At least 10+ years of Planning / Scheduling experience Experience Working inside the Primavera (P6) scheduling tool; minimum 2 years’ experience Transit Planning/Scheduling experience Ideally, here’s what you’ll also have Experience with EVM (Earned Value Management) Posted Salary Range Minimum",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 1,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches scheduling and workforce; advertised preferences are signals, not a qualification assessment",
     "id": "f7461643721c2936",
@@ -31013,7 +30999,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31054,7 +31040,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31098,7 +31084,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31217,7 +31203,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31269,24 +31255,21 @@
   },
   {
     "category": "Operations and training",
-    "tier": "Fallback",
-    "employment": "Temporary / contract / part-time — review",
+    "tier": "Review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
-      "Annual range extracted from text; confirm currency and base versus total compensation",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "Advertised annual range: $55,000–$60,000 (confirm currency)",
-    "evidence": "Our Firm’s success is built on the unique skills, perspectives, experiences and values of each individual. The Reception and Client Coordinator plays an integral role in providing exceptional delivery of services in a professional and efficient manner that supports both the visitors and internal clients’ experience by answering the phone and greeting everyone in a prompt and professional manner. The Reception and Client Coordinator provides the highest level of client service, with direct responsibilities to ensure an elevated hospitality and customer service experience for our clients. The successful candidate must",
-    "benefits": "Advertised — confirm coverage",
-    "workplace": "In-person advertised",
-    "schedule": "Weekend/shift signal — review",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 5,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
     "id": "4692cf4057974a61",
@@ -31300,7 +31283,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31340,7 +31323,7 @@
     "posted_date": "2026-11-23",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31418,7 +31401,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31698,7 +31681,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -31739,7 +31722,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-23T20:01:39-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "City of Toronto"
     ],
@@ -31778,7 +31761,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31854,7 +31837,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -31894,7 +31877,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31935,7 +31918,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31977,7 +31960,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -31991,21 +31974,20 @@
   {
     "category": "Banking and insurance fallback",
     "tier": "Fallback",
-    "employment": "Temporary / contract / part-time — review",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
-      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "The successful candidate will be highly organized, service-oriented, and committed to delivering a professional and seamless experience for clients and internal partners. Deliver an exceptional client experience by providing prompt, professional, and accurate service to Private Wealth clients and internal partners. 1-2 years of experience in client service, banking, financial services, administration, or a related environment. The base salary for this role is $40,000. Salary: $35,500.00 - $65,000.00",
-    "benefits": "Advertised — confirm coverage",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
     "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 3,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "20d66ee3c66e4061",
@@ -32016,10 +31998,10 @@
     "urls": [
       "https://www.linkedin.com/jobs/view/4494440321"
     ],
-    "posted_date": "2026-11-24",
+    "posted_date": "2026-11-27",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32098,7 +32080,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -32138,7 +32120,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-24T18:06:42-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -32179,7 +32161,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32260,7 +32242,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32300,7 +32282,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32311,22 +32293,20 @@
   {
     "category": "Operations and training",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Are you a logistics wizard with a knack for orchestrating unforgettable experiences? From managing venue partnerships and exhibitor communications to overseeing on-site logistics and health & safety compliance, you’ll be the backbone of our operations, ensuring every event runs seamlessly. Maintain organized records of communications with exhibitors, sponsors, and key stakeholders, including commitments made, outstanding items, and follow-up deadlines. Manage exhibitor and sponsor communications related to operational details of the event. Ensure health and safety compliance on-site and within the office. Collaborate with sales, sponsorship, and marketing teams to streamline",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "In-person advertised",
-    "schedule": "Weekend/shift signal — review",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 3,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
     "id": "ba5d104154607dbe",
@@ -32340,7 +32320,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32458,7 +32438,7 @@
     "posted_date": "2026-11-22",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32549,24 +32529,22 @@
   {
     "category": "Banking and insurance fallback",
     "tier": "Fallback",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
       "Confirm Ontario eligibility, office visits and remote-work restrictions",
       "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "Monday to Friday from 7:00 AM to midnight and Saturday to Sunday from 7:00 AM to 10:00 PM. You must be flexible to work between these hours which include evenings and weekends. Client engagement - Focus on each client experience and connect on a personal level to offer an exceptional client experience. You listen and learn from the experience of others. We work to recognize you in meaningful, personalized ways including a competitive salary, incentive pay, banking benefits, a benefits program\\*, defined benefit pension plan\\*, an employee share purchase plan,",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "In-person advertised",
-    "schedule": "Weekday pattern + extra-hours signal — review",
+    "workplace": "Remote advertised",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": true,
-    "preference_score": 4,
+    "preference_score": 1,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "501899b6731b2649",
@@ -32580,7 +32558,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32592,22 +32570,20 @@
   {
     "category": "Client services",
     "tier": "Review",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "French/bilingual signal: confirm spoken and written proficiency requirements",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
-    "salary": "USD 47,000.00–71,000.00 / yearly",
-    "evidence": "Global Servicing (GS) oversees consumer travel and concierge experiences, all card customer service functions for the company’s global consumer, banking, merchant, and commercial customers, as well as the key enablement functions that power our products and services. GS provides the world’s best customer experience every day by building on Amex’s 175-year legacy of service excellence, leveraging new technologies and capabilities to drive transformation, and bringing a human touch to each customer interaction. Strong documentation and record-management skills with experience maintaining accurate systems of record. The stated salary range represents the",
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "Hybrid advertised",
+    "workplace": "Not stated / not extracted",
     "schedule": "Not stated / not extracted",
-    "employer_support": "Not offered in text",
-    "bilingual_signal": true,
-    "preference_score": 5,
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
     "id": "826357ec37c3b16a",
@@ -32621,7 +32597,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32702,7 +32678,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32783,7 +32759,7 @@
     "posted_date": "2026-11-24",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-25T17:37:54-05:00",
-    "last_seen": "2026-11-25T17:37:54-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32820,7 +32796,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32831,22 +32807,20 @@
   {
     "category": "Banking and insurance fallback",
     "tier": "Fallback",
-    "employment": "Full-time/permanent advertised — confirm terms",
+    "employment": "Not established",
     "flags": [
       "Confirm experience, software skills and language requirements before applying",
-      "Check required licences/certifications and whether training is provided",
       "Health/dental benefits require confirmation",
-      "Check mandatory versus optional weekends, evenings, shifts and overtime",
       "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
     ],
     "salary": "Not disclosed / not extracted",
-    "evidence": "full-time permanent Monday to Friday from 7:00 am to 12:00 am You're flexible to work between those hours which include evenings and weekends. Client engagement - Focus on each client experience and connect on a personal level to offer an exceptional client experience. You listen and learn from the experience of others. We work to recognize you in meaningful, personalized ways including a competitive salary, incentive pay, banking benefits, a benefits program\\*, defined benefit pension plan\\*, an employee share purchase plan, a vacation offering, wellbeing support, and MomentMakers, our social,",
+    "evidence": "",
     "benefits": "Not stated / not extracted",
-    "workplace": "In-person advertised",
-    "schedule": "Weekday pattern + extra-hours signal — review",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
     "employer_support": "Not stated / not extracted",
     "bilingual_signal": false,
-    "preference_score": 3,
+    "preference_score": 0,
     "annual_base_min": null,
     "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
     "id": "75e40e0a27e7087a",
@@ -32860,7 +32834,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32902,7 +32876,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -32943,7 +32917,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -32984,7 +32958,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33025,7 +32999,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33066,7 +33040,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "linkedin"
     ],
@@ -33187,7 +33161,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33231,7 +33205,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33317,7 +33291,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33359,7 +33333,7 @@
     "posted_date": "2026-11-26",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33399,7 +33373,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33443,7 +33417,7 @@
     "posted_date": "2026-11-25",
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "indeed"
     ],
@@ -33567,7 +33541,7 @@
     "posted_date": null,
     "posted_date_basis": "Source-reported; may be board-added date",
     "first_seen": "2026-11-26T17:26:53-05:00",
-    "last_seen": "2026-11-26T17:26:53-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
     "sources": [
       "University of Toronto"
     ],
@@ -33575,5 +33549,403 @@
     "last_verified": "2026-11-26T17:26:53-05:00",
     "verification_note": "Matching title, substantive description and Apply control",
     "last_checked": "2026-11-26T17:26:53-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation"
+    ],
+    "salary": "CAD 50,000.00–60,000.00 / yearly",
+    "evidence": "We combine decades of experience with a forward-looking approach, delivering customized insurance, risk, and benefits solutions to clients across diverse industries. Previous experience in an administrative, client service, or insurance brokerage environment is an asset. The base salary range for this role is $50,000–$60,000. This range reflects the expected hiring range for the position and may vary based on factors such as experience, skills, qualifications, and overall fit. At PRL we are an equal employment opportunity employer based on job-related skills and experience.",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 2,
+    "annual_base_min": 50000.0,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "7e54b1c527987db9",
+    "title": "Client Services Representative, Broking Operations (Bilingual)",
+    "company": "Purves Redmond Limited",
+    "location": "Toronto, ON, Canada",
+    "url": "https://purvesredmond.com/career/client-services-representative-broking-operations-bilingual",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=d746e35360243d51",
+      "https://purvesredmond.com/career/client-services-representative-broking-operations-bilingual"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-27T17:07:38-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 44.48–51.40 / hourly",
+    "evidence": "At Humber, we are a vibrant, diverse community of professionals dedicated to providing an exceptional learning experience for our students. Status:** Full-Time Support Salary Range:** $44.48 – $51.40 Starting Salary:** $44.48 Progression through the payband is in accordance with the increments in the payband as outline in the Full-Time Support Staff Collective Agreement based on actual service in the payband. Information Technology Services provides leadership for the continuous development of digital experiences delivered on a secure, flexible, and dependable IT environment built on a foundation of transparency, collaboration, client focus,",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "efffb5a0d606a537",
+    "title": "IT Client Services Coordinator",
+    "company": "Humber College",
+    "location": "Etobicoke, ON, Canada",
+    "url": "https://humber.taleo.net/careersection/hbr_ex/jobdetail.ftl?job=37556&tz=GMT-06%3A00&tzname=America%2FChicago",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=68f56df205c3f7dc",
+      "https://humber.taleo.net/careersection/hbr_ex/jobdetail.ftl?job=37556&tz=GMT-06%3A00&tzname=America%2FChicago"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 25.00–30.00 / hourly",
+    "evidence": "Standard Auto Wreckers is a licensed automotive recycling company with over 45 years of experience. Purchase office supplies, health and safety equipment, personal protective equipment (PPE), yard supplies, tools and other operational materials. Previous experience in administration, office coordination, purchasing, operations or a similar role. Experience with website administration, graphic design, inventory systems, telecommunications or accounts payable would be an asset. Pay: $25.00-$30.00 per hour Benefits:",
+    "benefits": "Not stated / not extracted",
+    "workplace": "In-person advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "f7248dd2dd71295a",
+    "title": "Administrative Coordinator & IT Support",
+    "company": "Standard Auto Wreckers",
+    "location": "Scarborough, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=45a2016d5d429a4a",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=45a2016d5d429a4a"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Operations and training",
+    "tier": "Review",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 32.62–40.78 / hourly",
+    "evidence": "At Holland Bloorview, every role helps to create meaningful and healthy futures for children, youth, and families. Recognized among Greater Toronto’s Top Employers, Canada’s Top Employers for Young People, and Canada’s Best Diversity Employers, we offer competitive compensation and benefits, along with programs that support ongoing learning, professional growth, and well-being. Salary Band - Band D ($32.62 - $40.78/hr) From learning and development to staff wellbeing programming, you’ll make sure every program runs smoothly, and every participant has a great experience. You’ll be part of a team that values curiosity,",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 6,
+    "annual_base_min": null,
+    "match_reason": "Title matches operations and training; advertised preferences are signals, not a qualification assessment",
+    "id": "f16f13eb6f0b8301",
+    "title": "Program Coordinator, Organizational Development and Wellness",
+    "company": "Holland Bloorview Kids Rehabilitation Hospital",
+    "location": "Toronto, ON, Canada",
+    "url": "https://www.appone.com/applinkportal.asp?AdCode=Indeed2706&r_id=7229792",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=6677d9a808012e0c",
+      "https://www.appone.com/applinkportal.asp?AdCode=Indeed2706&r_id=7229792"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-27T17:07:38-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "Research Coordinator I – MAP Centre for Urban Health Solutions MAP Centre for Urban Health Solutions Core Operations team at St. Michael’s Hospital, Unity Health Toronto (UHT), is currently looking for a Research Coordinator I. Undergraduate degree OR equivalent combination of experience and alternative education 2 years of progressively responsible business operations experience within a large research healthcare setting Familiarity with unique business operational challenges and dynamics of healthcare research settings",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 4,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "6c1199e6a0f0e65c",
+    "title": "Research Coordinator I MAP Administration",
+    "company": "Unity Health Toronto",
+    "location": "Toronto, ON, Canada",
+    "url": "https://css-ezjf9k52wb5ac52e-prd.tam.ca1.inforcloudsuite.com:443/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D(1,18148,2)?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=c02aa60fe3df0c75",
+      "https://css-ezjf9k52wb5ac52e-prd.tam.ca1.inforcloudsuite.com:443/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D(1,18148,2)?csk.HROrganization=1&csk.JobBoard=EXTERNAL"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Health/dental benefits require confirmation",
+      "Check mandatory versus optional weekends, evenings, shifts and overtime",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "The hours of work will consistently range from 30 to 40 hours per week, (9 am–5 pm) depending on varying contracts and timelines—overtime, weekends and/or evenings are typically not required. Worker Health and Safety Awareness in 4 Steps Salary Salary and Compensation:** **What’s rewarded We offer competitive salaries on experience, knowledge, and education. MGI also provides attractive benefits that extend to health, dental, vision insurance, retirement planning, pension plans, professional development, training credits, wellness programs, travel/vacation days, discounts on company products and services, commuter benefits, and team bonding events to",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Weekend/shift signal — review",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "8d0df305e98ec35f",
+    "title": "Office Coordinator",
+    "company": "MGI Construction",
+    "location": "Toronto, ON, Canada",
+    "url": "https://www.mgicorp.ca/careers/office-coordinator",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=d1fe2cc298a31ddb",
+      "https://www.mgicorp.ca/careers/office-coordinator"
+    ],
+    "posted_date": "2026-11-26",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Could not confirm a matching live posting and application route",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Client services",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "French/bilingual signal: confirm spoken and written proficiency requirements",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "CAD 17.60–22.50 / hourly",
+    "evidence": "The role combines clear communication, accurate data entry, and attentive service to create a helpful, consistent customer experience. Preferred: Bilingual or multilingual communication, including Spanish, is an advantage, as is related customer service or sales experience. Pay: $17.60-$22.50 per hour Benefits: Work Location: Hybrid remote in North York, ON",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Hybrid advertised",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": true,
+    "preference_score": 4,
+    "annual_base_min": null,
+    "match_reason": "Title matches client services; advertised preferences are signals, not a qualification assessment",
+    "id": "ffff264eb620c0d3",
+    "title": "Customer Service Representative",
+    "company": "World Web Financial Inc",
+    "location": "North York, ON, Canada",
+    "url": "https://ca.indeed.com/viewjob?jk=39a8b1989e4462ed",
+    "urls": [
+      "https://ca.indeed.com/viewjob?jk=39a8b1989e4462ed"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "HTTP 401",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Not established",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 0,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "03043a1d327738ce",
+    "title": "Administration Associate, Private Wealth",
+    "company": "BMO",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4491774177",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4491774177"
+    ],
+    "posted_date": "2026-11-24",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Unverified",
+    "verification_note": "Request failed: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs/view/4491774177 (Caused by ResponseError('too m",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Banking and insurance fallback",
+    "tier": "Fallback",
+    "employment": "Temporary / contract / part-time — review",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Check required licences/certifications and whether training is provided",
+      "Confirm benefit eligibility, coverage, employee contributions and waiting period"
+    ],
+    "salary": "CAD 35,500.00–65,000.00 / yearly",
+    "evidence": "Works collaboratively within the branch and through various channels with BMO partners to deliver the desired customer experience and achieve overall business objectives. Contributes to meeting branch business results and the customer experience. Takes the initiative to find creative approaches that make each customer’s experience feel personal. Looks for ways to contribute to the ongoing improvement of the overall customer experience. Contributes to business results and the overall experience delivered. Typically between 1 – 2 years of relevant experience and/or certification in related field of study desirable or an equivalent",
+    "benefits": "Advertised — confirm coverage",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 3,
+    "annual_base_min": 35500.0,
+    "match_reason": "Title matches banking and insurance fallback; advertised preferences are signals, not a qualification assessment",
+    "id": "d3231abe6c9029c1",
+    "title": "Personal Banking Associate",
+    "company": "BMO Financial Group",
+    "location": "Toronto, ON, Canada",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Personal-Banking-Associate_R260032638",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Personal-Banking-Associate_R260032638",
+      "https://ca.indeed.com/viewjob?jk=ea03f6bd86a3ea0d"
+    ],
+    "posted_date": "2026-11-26",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "indeed"
+    ],
+    "status": "Unverified",
+    "verification_note": "Request failed: HTTPSConnectionPool(host='bmo.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /en-US/External/job/Toronto-ON-CAN/Personal-",
+    "last_checked": "2026-11-27T17:07:38-05:00"
+  },
+  {
+    "category": "Administration",
+    "tier": "Review",
+    "employment": "Full-time/permanent advertised — confirm terms",
+    "flags": [
+      "Confirm experience, software skills and language requirements before applying",
+      "Health/dental benefits require confirmation",
+      "Annual base pay unknown; hourly rates are not annualized without confirmed hours"
+    ],
+    "salary": "Not disclosed / not extracted",
+    "evidence": "A comprehensive benefit and pension package including a comprehensive short term sickness plan and personal days",
+    "benefits": "Not stated / not extracted",
+    "workplace": "Not stated / not extracted",
+    "schedule": "Not stated / not extracted",
+    "employer_support": "Not stated / not extracted",
+    "bilingual_signal": false,
+    "preference_score": 1,
+    "annual_base_min": null,
+    "match_reason": "Title matches administration; advertised preferences are signals, not a qualification assessment",
+    "id": "3f72ef2aa34eb731",
+    "title": "Office Administrator",
+    "company": "Legislative Assembly of Ontario / Assemblée législative de l’Ontario",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://www.linkedin.com/jobs/view/4495319428",
+    "urls": [
+      "https://www.linkedin.com/jobs/view/4495319428"
+    ],
+    "posted_date": "2026-11-27",
+    "posted_date_basis": "Source-reported; may be board-added date",
+    "first_seen": "2026-11-27T17:07:38-05:00",
+    "last_seen": "2026-11-27T17:07:38-05:00",
+    "sources": [
+      "linkedin"
+    ],
+    "status": "Posting verified",
+    "last_verified": "2026-11-27T17:07:38-05:00",
+    "verification_note": "Matching title, substantive description and Apply control",
+    "last_checked": "2026-11-27T17:07:38-05:00"
   }
 ]
